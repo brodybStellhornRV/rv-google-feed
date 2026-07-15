@@ -112,6 +112,11 @@ function extractImages(unitChunk) {
 function buildItem(unit, loc, dealershipName) {
   if (tag(unit, "status").trim() !== "Active") return ""; // only live inventory
 
+  // Golf carts aren't eligible for Google Vehicle Ads; they belong in the
+  // separate Shopping product feed. Skip them here.
+  const productType = decodeEntities(tag(unit, "productType"));
+  if (/golf\s*cart/i.test(productType)) return "";
+
   const stockNumber = tag(unit, "stockNumber").trim();
   const vin = tag(unit, "globalUniqueId").trim();
   const manufacturer = decodeEntities(tag(unit, "manufacturer")).trim(); // -> make
