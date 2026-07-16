@@ -35,11 +35,14 @@ jobs:
       - name: Build the golf cart feed (Shopping products)
         run: node golf-carts.mjs
 
+      - name: Build the golf cart local inventory feed (for the GBP)
+        run: node golf-carts-local.mjs
+
       - name: Commit the updated feeds
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add google-feed.xml google-carts-feed.xml
+          git add google-feed.xml google-carts-feed.xml google-carts-local.txt
           if git diff --staged --quiet; then
             echo "No changes to the feeds."
           else
