@@ -1,0 +1,6 @@
+store_code	id	availability	price	quantity
+GD2151	008407	in_stock	13995.00 USD	1
+GD2151	000525	in_stock	13995.00 USD	1
+GD2151	006295	in_stock	15999.00 USD	1
+GD2151	006923	in_stock	15999.00 USD	1
+GD2151	004292	in_stock	13995.00 USD	1
