@@ -18,6 +18,9 @@ const OUTPUT_PATH = process.env.OUTPUT_PATH || "google-feed.xml";
 const MAX_ADDITIONAL_IMAGES = 10;                   // Google-friendly cap
 const CHANNEL_TITLE = "Stellhorn RV Vehicle Feed";
 const CHANNEL_LINK = "https://www.stellhornrv.com";
+// Store code from the linked Google Business Profile (NOT the RV One location id).
+// All units sit at the single Kokomo store, so every item gets this code.
+const STORE_CODE = process.env.STORE_CODE || "GD2151";
 
 // ---- Tiny helpers -----------------------------------------------------------
 
@@ -171,7 +174,7 @@ function buildItem(unit, loc, dealershipName) {
   for (const url of images.slice(1, 1 + MAX_ADDITIONAL_IMAGES)) {
     item += el("g:additional_image_link", url);
   }
-  item += el("g:store_code", tag(loc, "id").trim());
+  item += el("g:store_code", STORE_CODE);
   item += el("g:dealership_name", dealershipName);
   item += el("g:dealership_address", addr);
   item += el("g:vehicle_fulfillment", "IN_STORE");
