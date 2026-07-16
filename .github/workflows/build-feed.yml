@@ -29,14 +29,19 @@ jobs:
         with:
           node-version: "20"
 
+      # Fetch the RV One inventory ONCE and reuse it for every feed below.
+      # (Fetching per-script tripped RV One's rate limit -> 429 Too Many Requests.)
+      - name: Download the RV One inventory once
+        run: curl -sSL --retry 3 --retry-delay 5 --fail "$FEED_URL" -o source.xml
+
       - name: Build the vehicle feed (RVs / campers)
-        run: node transform.mjs
+        run: node transform.mjs source.xml
 
       - name: Build the golf cart feed (Shopping products)
-        run: node golf-carts.mjs
+        run: node golf-carts.mjs source.xml
 
       - name: Build the golf cart local inventory feed (for the GBP)
-        run: node golf-carts-local.mjs
+        run: node golf-carts-local.mjs source.xml
 
       - name: Commit the updated feeds
         run: |
