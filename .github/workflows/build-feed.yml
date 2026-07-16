@@ -29,17 +29,20 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Build the feed
+      - name: Build the vehicle feed (RVs / campers)
         run: node transform.mjs
 
-      - name: Commit the updated feed
+      - name: Build the golf cart feed (Shopping products)
+        run: node golf-carts.mjs
+
+      - name: Commit the updated feeds
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add google-feed.xml
+          git add google-feed.xml google-carts-feed.xml
           if git diff --staged --quiet; then
-            echo "No changes to the feed."
+            echo "No changes to the feeds."
           else
-            git commit -m "Update Google vehicle feed ($(date -u +%Y-%m-%d))"
+            git commit -m "Update Google feeds ($(date -u +%Y-%m-%d))"
             git push
           fi
