@@ -9,9 +9,9 @@
 // Output: writes google-feed.xml in the current directory (or OUTPUT_PATH).
 //
 // No external dependencies. Requires Node 20+ (built-in fetch).
-
+ 
 import { readFileSync, writeFileSync } from "node:fs";
-
+ 
 // ---- Config -----------------------------------------------------------------
 const FEED_URL = process.env.FEED_URL || "";        // set this in GitHub Actions
 const OUTPUT_PATH = process.env.OUTPUT_PATH || "google-feed.xml";
@@ -21,15 +21,18 @@ const CHANNEL_LINK = "https://www.stellhornrv.com";
 // Store code from the linked Google Business Profile (NOT the RV One location id).
 // All units sit at the single Kokomo store, so every item gets this code.
 const STORE_CODE = process.env.STORE_CODE || "GD2151";
-
+// Google requires a color on every vehicle offer. RV One rarely exports one for
+// towables, so this is the fallback when the unit has no exteriorColor.
+const DEFAULT_COLOR = process.env.DEFAULT_COLOR || "White";
+ 
 // ---- Tiny helpers -----------------------------------------------------------
-
+ 
 // Pull the first <tag>...</tag> text from a chunk (non-greedy, no nesting).
 function tag(chunk, name) {
   const m = chunk.match(new RegExp(`<${name}>([\\s\\S]*?)</${name}>`));
   return m ? m[1] : "";
 }
-
+ 
 // Decode the XML entities present in this feed, then re-escape safely on output.
 // Loops until stable so double-encoded values (e.g. "&amp;amp;" -> "&") resolve.
 function decodeEntities(s) {
@@ -49,7 +52,7 @@ function decodeEntities(s) {
   } while (out !== prev && ++guard < 5);
   return out;
 }
-
+ 
 // Escape a plain string for safe inclusion in XML text.
 function xmlEscape(s) {
   return String(s)
@@ -58,7 +61,7 @@ function xmlEscape(s) {
     .replace(/>/g, "&gt;")
     .replace(/"/g, "&quot;");
 }
-
+ 
 // Strip HTML tags and collapse whitespace (for the description field).
 function stripHtml(raw) {
   return decodeEntities(raw)
@@ -66,27 +69,60 @@ function stripHtml(raw) {
     .replace(/\s+/g, " ")
     .trim();
 }
-
+ 
 // "65911.0000" -> "65911.00 USD"; blank/invalid -> "".
 function formatPrice(raw) {
   const n = Number(String(raw).trim());
   if (!raw || Number.isNaN(n) || n <= 0) return "";
   return `${n.toFixed(2)} USD`;
 }
-
-// Mileage for used units: strip to digits; if the source has none, use "0".
-function usedMileage(raw) {
-  const digits = String(raw).replace(/[^\d]/g, "");
-  return digits || "0";
+ 
+// Google requires mileage on every vehicle offer, formatted with a unit
+// (e.g. "0 Miles"). RV One doesn't export mileage, so it defaults to 0.
+function mileage(raw) {
+  const digits = String(raw).replace(/[^\d]/g, "") || "0";
+  return `${digits} Miles`;
 }
-
+ 
+// Google product category is REQUIRED for vehicle offers. Motorhomes map to
+// "Recreational Vehicles" (920); everything towable maps to "Travel Trailers"
+// (4243). https://support.google.com/merchants/answer/11192663
+function googleProductCategory(productType) {
+  const t = productType.toLowerCase();
+  if (/motor\s*home|motorhome|class\s*[abc]/.test(t)) return "920";
+  return "4243";
+}
+ 
+// Optional body_style enum (improves ad quality). Omitted when unknown.
+function bodyStyle(productType) {
+  const t = productType.toLowerCase();
+  if (/class\s*a/.test(t)) return "class_a_motorhome";
+  if (/class\s*b/.test(t)) return "class_b_motorhome";
+  if (/class\s*c/.test(t)) return "class_c_motorhome";
+  if (/fifth\s*wheel/.test(t)) return "fifth_wheel";
+  if (/pop.?up|folding/.test(t)) return "pop_up_camper";
+  if (/truck\s*camper/.test(t)) return "truck_camper";
+  if (/travel\s*trailer|destination|toy\s*hauler|expandable|park|teardrop/.test(t))
+    return "travel_trailer";
+  return "";
+}
+ 
+// link_template must point at the VDP and carry the literal {store_code} token,
+// which Google substitutes at serve time. Required for in-store offers.
+function linkTemplate(link) {
+  if (!link) return "";
+  return link.includes("?")
+    ? `${link}&store={store_code}`
+    : `${link}?store={store_code}`;
+}
+ 
 function el(tagName, value) {
   if (value === "" || value == null) return "";
   return `    <${tagName}>${xmlEscape(value)}</${tagName}>\n`;
 }
-
+ 
 // ---- Core parsing -----------------------------------------------------------
-
+ 
 function getInput() {
   const fileArg = process.argv[2];
   if (fileArg) return Promise.resolve(readFileSync(fileArg, "utf8"));
@@ -96,7 +132,7 @@ function getInput() {
     return r.text();
   });
 }
-
+ 
 // Extract images from a <unit> chunk: keep only assetType "Unit Photo".
 function extractImages(unitChunk) {
   const assetsBlock = tag(unitChunk, "assets");
@@ -111,15 +147,15 @@ function extractImages(unitChunk) {
   }
   return images;
 }
-
+ 
 function buildItem(unit, loc, dealershipName) {
   if (tag(unit, "status").trim() !== "Active") return ""; // only live inventory
-
+ 
   // Golf carts aren't eligible for Google Vehicle Ads; they belong in the
   // separate Shopping product feed. Skip them here.
   const productType = decodeEntities(tag(unit, "productType"));
   if (/golf\s*cart/i.test(productType)) return "";
-
+ 
   const stockNumber = tag(unit, "stockNumber").trim();
   const vin = tag(unit, "globalUniqueId").trim();
   const manufacturer = decodeEntities(tag(unit, "manufacturer")).trim(); // -> make
@@ -129,72 +165,63 @@ function buildItem(unit, loc, dealershipName) {
   const isNew = tag(unit, "isNew").trim().toLowerCase() === "true";
   const title = decodeEntities(tag(unit, "description")).trim();
   const link = tag(unit, "itemDetailUrl").trim();
-
+ 
   const prices = tag(unit, "prices");
   const price = formatPrice(tag(prices, "sales"));
   const msrp = formatPrice(tag(prices, "msrp"));
-
+ 
   const props = tag(unit, "properties");
   const features = decodeEntities(tag(props, "features")).trim();
   const exteriorColor = decodeEntities(tag(props, "exteriorColor")).trim();
-  const interiorColor = decodeEntities(tag(props, "interiorColor")).trim();
-  // RV One's XML doesn't export mileage for towables. Google requires g:mileage
-  // on used vehicles, so fall back to "0" (how dealers list trailers: "Used - 0 mi").
-  const miles = usedMileage(tag(props, "miles"));
+  // Google requires mileage on every offer, with a unit. RV One doesn't export
+  // it, so this becomes "0 Miles" for both new and used units.
+  const miles = mileage(tag(props, "miles"));
   const description = stripHtml(tag(unit, "details")).slice(0, 2000);
-
+ 
   const images = extractImages(unit);
-
+ 
   // Skip anything missing a hard requirement.
   if (!vin || !price || !stockNumber) return "";
-
-  const addr = [
-    tag(loc, "address").trim(),
-    tag(loc, "city").trim(),
-    `${tag(loc, "state").trim()} ${tag(loc, "zip").trim()}`.trim(),
-    tag(loc, "country").trim(),
-  ]
-    .filter(Boolean)
-    .join(", ");
-
+ 
   let item = "  <item>\n";
   item += el("g:id", stockNumber);
   item += el("g:vin", vin);
   item += el("title", title);
   item += el("g:condition", isNew ? "new" : "used");
-  item += el("g:make", manufacturer);
+  item += el("g:brand", manufacturer);            // REQUIRED (spec attr is brand, not make)
   item += el("g:model", series);
   item += el("g:trim", floorplan);
   item += el("g:year", year);
-  if (!isNew) item += el("g:mileage", miles); // required for used; defaults to 0
+  item += el("g:mileage", miles);                 // REQUIRED on every offer, "N Miles"
+  item += el("g:google_product_category", googleProductCategory(productType)); // REQUIRED
+  const bs = bodyStyle(productType);
+  if (bs) item += el("g:body_style", bs);         // optional, improves quality
   item += el("g:price", price);
   if (isNew) item += el("g:vehicle_msrp", msrp);
   item += el("g:link", link);
+  item += el("g:link_template", linkTemplate(link)); // REQUIRED for in-store offers
   if (images.length) item += el("g:image_link", images[0]);
   for (const url of images.slice(1, 1 + MAX_ADDITIONAL_IMAGES)) {
     item += el("g:additional_image_link", url);
   }
   item += el("g:store_code", STORE_CODE);
-  item += el("g:dealership_name", dealershipName);
-  item += el("g:dealership_address", addr);
-  item += el("g:vehicle_fulfillment", "IN_STORE");
+  item += el("g:vehicle_fulfillment", "in_store");
   if (features) item += el("g:vehicle_option", features.split("|").join(","));
-  if (exteriorColor) item += el("g:exterior_color", exteriorColor);
-  if (interiorColor) item += el("g:interior_color", interiorColor);
+  item += el("g:color", exteriorColor || DEFAULT_COLOR); // REQUIRED (spec attr is color)
   if (description) item += el("g:description", description);
   item += "  </item>\n";
   return item;
 }
-
+ 
 function build(xml) {
   // Dealership (business) name = the <name> directly under <account>.
   const dealershipName = decodeEntities(
     (xml.match(/<account><name>([\s\S]*?)<\/name>/) || [, ""])[1]
   ).trim();
-
+ 
   let items = "";
   let count = 0;
-
+ 
   // Each <location> block carries its own address + units.
   const locRe = /<location>([\s\S]*?)<\/location>/g;
   let lm;
@@ -202,7 +229,7 @@ function build(xml) {
     const locBlock = lm[1];
     const locHeader = locBlock.split("<units>")[0]; // address fields live here
     const unitsBlock = tag(locBlock, "units");
-
+ 
     const unitRe = /<unit>([\s\S]*?)<\/unit>/g;
     let um;
     while ((um = unitRe.exec(unitsBlock)) !== null) {
@@ -213,7 +240,7 @@ function build(xml) {
       }
     }
   }
-
+ 
   const rss =
     `<?xml version="1.0" encoding="UTF-8"?>\n` +
     `<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">\n` +
@@ -223,13 +250,14 @@ function build(xml) {
     `  <description>Vehicle inventory for Google Vehicle Ads</description>\n` +
     items +
     `</channel>\n</rss>\n`;
-
+ 
   return { rss, count };
 }
-
+ 
 // ---- Run --------------------------------------------------------------------
-
+ 
 const xml = await getInput();
 const { rss, count } = build(xml);
 writeFileSync(OUTPUT_PATH, rss, "utf8");
 console.log(`Wrote ${count} vehicles to ${OUTPUT_PATH}`);
+ 
