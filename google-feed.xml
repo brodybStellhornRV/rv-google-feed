@@ -5,37 +5,70 @@
   <link>https://www.stellhornrv.com</link>
   <description>Vehicle inventory for Google Vehicle Ads</description>
   <item>
-    <g:id>911663</g:id>
-    <g:vin>4X4FFLF21V1911663</g:vin>
-    <title>New 2027 Forest River RV Flagstaff Classic 290CFK</title>
+    <g:id>471043</g:id>
+    <g:vin>4X4TFLW23VD471043</g:vin>
+    <title>New 2027 Forest River RV Flagstaff Micro Lite 21FBRS</title>
     <g:condition>new</g:condition>
     <g:brand>Forest River RV</g:brand>
-    <g:model>Flagstaff Classic</g:model>
-    <g:trim>290CFK</g:trim>
+    <g:model>Flagstaff Micro Lite</g:model>
+    <g:trim>21FBRS</g:trim>
     <g:year>2027</g:year>
     <g:mileage>0 Miles</g:mileage>
     <g:google_product_category>4243</g:google_product_category>
-    <g:body_style>fifth_wheel</g:body_style>
-    <g:price>66994.00 USD</g:price>
-    <g:vehicle_msrp>95131.00 USD</g:vehicle_msrp>
-    <g:link>https://www.stellhornrv.com/product/new-2027-forest-river-rv-flagstaff-classic-290cfk-3700464-5</g:link>
-    <g:link_template>https://www.stellhornrv.com/product/new-2027-forest-river-rv-flagstaff-classic-290cfk-3700464-5?store={store_code}</g:link_template>
-    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0708202617405269/unit_photo_202607080540526936342509.jpg</g:image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0707202619032982/unit_photo_202607070703298237797499.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0702202617045521/unit_photo_20260702050455213633039.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0702202617045549/unit_photo_202607020504554945938975.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0702202617045517/unit_photo_202607020504551723364253.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0702202617045519/unit_photo_202607020504551927766116.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0702202617045511/unit_photo_202607020504551111958779.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0702202617045492/unit_photo_202607020504549225200853.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0702202617045516/unit_photo_202607020504551672770201.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0702202617045523/unit_photo_20260702050455229855148.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0702202617045488/unit_photo_202607020504548841691702.jpg</g:additional_image_link>
+    <g:body_style>travel_trailer</g:body_style>
+    <g:price>35690.00 USD</g:price>
+    <g:vehicle_msrp>50619.00 USD</g:vehicle_msrp>
+    <g:link>https://www.stellhornrv.com/product/new-2027-forest-river-rv-flagstaff-micro-lite-21fbrs-3766254-29</g:link>
+    <g:link_template>https://www.stellhornrv.com/product/new-2027-forest-river-rv-flagstaff-micro-lite-21fbrs-3766254-29?store={store_code}</g:link_template>
+    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0904202614580014/unit_photo_202609040258001415888462.jpg</g:image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0903202615511991/unit_photo_202609030351199175392430.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0901202613221380/unit_photo_202609010122138075518466.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0901202613221394/unit_photo_202609010122139393585154.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0901202613221366/unit_photo_202609010122136583749134.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0901202613221433/unit_photo_20260901012214330208684.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0901202613221374/unit_photo_202609010122137448551524.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0901202613221364/unit_photo_202609010122136469785314.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0901202613221427/unit_photo_202609010122142735108888.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0901202613221434/unit_photo_202609010122143420578497.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0901202613221401/unit_photo_202609010122140087032123.jpg</g:additional_image_link>
     <g:store_code>GD2151</g:store_code>
     <g:vehicle_fulfillment>in_store</g:vehicle_fulfillment>
-    <g:vehicle_option>Front Kitchen,Rear Bedroom</g:vehicle_option>
+    <g:vehicle_option>Front Bedroom</g:vehicle_option>
     <g:color>White</g:color>
-    <g:description>Forest River Flagstaff Classic fifth wheel 290CFK highlights: Triple Slides Queen Bed Table &amp; Chairs Two Power Awnings Designed for campers who want residential comfort with a layout that feels open, inviting, and easy to live in. The living area is set up for relaxing just as much as entertaining, making it a great fit for extended stays or weekends when you want to truly unwind. The theater seating gives you a comfortable spot to kick back, whether you’re watching a movie or winding down after a long day. The bedroom features a queen bed , creating a cozy retreat that still leaves room to move comfortably around the space. In the rear bedroom, a dedicated vanity adds a touch of everyday convenience, giving you a practical place. The full bathroom offers everything you need in one well-designed space, helping the coach feel more like home than a camper. Outside, generous pass-thru storage makes it easy to bring along larger gear, tools, or outdoor furniture while keeping the interior clean and uncluttered. Each one of these Forest River Flagstaff Classic fifth wheels or travel trailers will be your home on wheels! Their quality craftsmanship and attention to detail shines through the enclosed underbelly, the fully laminated walkable roof , and six-sided full-aluminum frame. Towing your unit will be easy with the Goodyear Endurance tires plus RoadTech tire pressure monitoring . Additional exterior features include a 200W solar panel , slam baggage doors, a Key-Alike lock system, and double 30 lb. LP tanks to name a few conveniences. Head inside to find a residential style gas range , solid surface kitchen and bath countertops, soft close hidden cabinet hinges, and more comforts!</g:description>
+    <g:description>Forest River Flagstaff Micro Lite travel trailer 21FBRS highlights: Pass-Through Storage RV Queen Bed Single Slide SolidStep Entry 14' Power Awning with LED Lights For the couple who is ready to get out and enjoy nature, this Flagstaff Micro Lite travel trailer is ideal for you! This unit has all of the basic amenities, like a rear corner bath with a radius shower, and a front RV queen bed that makes for a comfy night's rest. There is also flip-up storage under the bed for your bags, plus a privacy curtain! The slide out with the 72&quot; sofa provides extra interior space so that you won't feel cramped. You'll also be able to enjoy your meals here with a table in front of the sofa. After swimming all day working up your appetite, come back to this unit and cook a meal on the three-burner cooktop! This travel trailer features a pass-through storage for your larger camping items, plus an exterior storage to hold the kids' outdoor games. With any Flagstaff Micro Lite travel trailer by Forest River, you will enjoy lightweight towing, durable construction, and added interior comforts to make each trip memorable! Each model features a wheel-banded tire pressure monitoring system (TPMS) , Dexter Torflex axles, and nitrogen-filled Goodyear endurance tires for smooth towing from home to campground. The 6-sided aluminum frame and complete composite wall construction provides a strong foundation so you can enjoy your RV throughout your adventures, plus the radiant foil in the front cap, underbelly and slides help insulate your trailer. Additional exterior features include a 200W solar panel , back-up camera prep, frameless windows, and slam baggage doors. Each model includes the Great Expectations Package with roller shades, solid surface kitchen countertops , and hidden hinge cabinet doors. There is also an exterior hot/cold water port, outside speakers, a power tongue jack and stabilizer jacks, plus many more conveniences.</g:description>
+  </item>
+  <item>
+    <g:id>029125</g:id>
+    <g:vin>5ZT2PUGC6V4029125</g:vin>
+    <title>New 2027 Forest River RV Puma Camping Edition 18BHCE</title>
+    <g:condition>new</g:condition>
+    <g:brand>Forest River RV</g:brand>
+    <g:model>Puma Camping Edition</g:model>
+    <g:trim>18BHCE</g:trim>
+    <g:year>2027</g:year>
+    <g:mileage>0 Miles</g:mileage>
+    <g:google_product_category>4243</g:google_product_category>
+    <g:body_style>travel_trailer</g:body_style>
+    <g:price>19885.00 USD</g:price>
+    <g:vehicle_msrp>36968.00 USD</g:vehicle_msrp>
+    <g:link>https://www.stellhornrv.com/product/new-2027-forest-river-rv-puma-camping-edition-18bhce-3753370-29</g:link>
+    <g:link_template>https://www.stellhornrv.com/product/new-2027-forest-river-rv-puma-camping-edition-18bhce-3753370-29?store={store_code}</g:link_template>
+    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0825202615290483/unit_photo_202608250329048352894402.jpg</g:image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0824202620404302/unit_photo_202608240840430223267483.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0824202616430406/unit_photo_202608240443040587739311.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0824202616430412/unit_photo_202608240443041220790761.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0824202616430437/unit_photo_202608240443043684049851.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0824202616430480/unit_photo_202608240443048024000583.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0824202616430491/unit_photo_202608240443049092737377.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0824202616430448/unit_photo_202608240443044828016783.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0824202616430487/unit_photo_202608240443048711156565.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0824202616430485/unit_photo_202608240443048539473329.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0824202616430482/unit_photo_202608240443048277452306.jpg</g:additional_image_link>
+    <g:store_code>GD2151</g:store_code>
+    <g:vehicle_fulfillment>in_store</g:vehicle_fulfillment>
+    <g:vehicle_option>Bunkhouse,Murphy Bed,Outdoor Kitchen,U Shaped Dinette</g:vehicle_option>
+    <g:color>White</g:color>
+    <g:description>Forest River Puma Camping Edition travel trailer 18BHCE highlights: Double-Size Bunks Front RV Queen Bed Outside Storage Full Bath The whole gang will love camping in this travel trailer since there are double-size bunks for compact sleeping spaces and a slide out for more space to relax! The front RV queen bed is sure to provide a great night's rest, and you can choose the optional Murphy bed if you're needing more seating space during the day. Once you've made dinner on the two-burner cooktop, you can dine around the U-shaped dinette . And an optional mini kitchen with a griddle is available if you'd rather cook outdoors! This unit includes ample storage space for your things, including exterior storage and storage under the bunks ! The Puma Camping Edition by Forest River offer an affordable travel trailer for rookie campers or seasoned RVers! They are built with 5/8&quot; tongue and groove plywood flooring and a front diamond plate for added protection. There are also exterior magnetic baggage door latches , back up camera prep, a battery disconnect. Head inside to find Thermofoil countertops with a smooth drop edge, bedroom USB ports and outlets, and pleated shades in the living room.</g:description>
   </item>
   <item>
     <g:id>029124</g:id>
@@ -218,7 +251,8 @@
     <g:vehicle_msrp>47134.00 USD</g:vehicle_msrp>
     <g:link>https://www.stellhornrv.com/product/new-2027-forest-river-rv-puma-227rk-3815221-29</g:link>
     <g:link_template>https://www.stellhornrv.com/product/new-2027-forest-river-rv-puma-227rk-3815221-29?store={store_code}</g:link_template>
-    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m1026202618034409/unit_photo_202610260603440895854429.jpg</g:image_link>
+    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m1028202614222925/unit_photo_202610280222292548063148.jpg</g:image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m1026202618034409/unit_photo_202610260603440895854429.jpg</g:additional_image_link>
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m1023202621181763/unit_photo_202610230918176284734758.jpg</g:additional_image_link>
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m1023202621181732/unit_photo_202610230918173217987142.jpg</g:additional_image_link>
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m1023202621181759/unit_photo_202610230918175917408990.jpg</g:additional_image_link>
@@ -228,7 +262,6 @@
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m1023202621181776/unit_photo_202610230918177629597418.jpg</g:additional_image_link>
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m1023202621181767/unit_photo_202610230918176695171278.jpg</g:additional_image_link>
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m1023202621181758/unit_photo_202610230918175839091585.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m1023202621181740/unit_photo_202610230918174021285190.jpg</g:additional_image_link>
     <g:store_code>GD2151</g:store_code>
     <g:vehicle_fulfillment>in_store</g:vehicle_fulfillment>
     <g:vehicle_option>Front Bedroom,Rear Kitchen,Walk-Thru Bath</g:vehicle_option>
@@ -251,7 +284,8 @@
     <g:vehicle_msrp>47134.00 USD</g:vehicle_msrp>
     <g:link>https://www.stellhornrv.com/product/new-2027-forest-river-rv-puma-227rk-3809233-29</g:link>
     <g:link_template>https://www.stellhornrv.com/product/new-2027-forest-river-rv-puma-227rk-3809233-29?store={store_code}</g:link_template>
-    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m1026202618035726/unit_photo_202610260603572614828706.jpg</g:image_link>
+    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m1028202614215135/unit_photo_202610280221513491781135.jpg</g:image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m1026202618035726/unit_photo_202610260603572614828706.jpg</g:additional_image_link>
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m1023202621194500/unit_photo_202610230919450025913218.jpg</g:additional_image_link>
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m1023202621194484/unit_photo_202610230919448396401439.jpg</g:additional_image_link>
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m1023202621194545/unit_photo_202610230919454560497172.jpg</g:additional_image_link>
@@ -261,7 +295,6 @@
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m1023202621194526/unit_photo_202610230919452655790418.jpg</g:additional_image_link>
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m1023202621194539/unit_photo_202610230919453900302645.jpg</g:additional_image_link>
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m1023202621194542/unit_photo_202610230919454252963245.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m1023202621194537/unit_photo_20261023091945368546884.jpg</g:additional_image_link>
     <g:store_code>GD2151</g:store_code>
     <g:vehicle_fulfillment>in_store</g:vehicle_fulfillment>
     <g:vehicle_option>Front Bedroom,Rear Kitchen,Walk-Thru Bath</g:vehicle_option>
@@ -368,70 +401,70 @@
     <g:description>Forest River Flagstaff Micro Lite travel trailer 25MBR highlights: Double Slides Full Rear Bath Entryway Closet Bartop with Stools This front kitchen travel trailer is sure to make all your camping wishes come true. It's perfect for a couple since there is a master bedroom with a 60&quot; x 80&quot; queen bed , plus a theater seat in the main living area. If you're needing additional sleeping spaces, just choose the optional hide-a-bed sofa in place of the theater seat. The generous counter space in the kitchen will give you plenty of space to prep meals, and there is a bartop with stools where you can dine together. Along with the queen bed slide out , the bedroom also includes a dresser, a TV option, plus a wardrobe with washer and dryer prep if you choose to add these appliances. And don't overlook the full rear bath to freshen up each day! With any Flagstaff Micro Lite travel trailer by Forest River you will enjoy lightweight towing, durable construction, and added interior comforts to make each trip memorable! Each model features RoadTech tire pressure monitoring, Dexter Torflex axles , and nitrogen-filled Goodyear endurance tires for smooth towing from home to campground. The 6-sided aluminum framed construction provides a strong foundation so you can enjoy your RV throughout your adventures, plus the radiant foil in the front cap, underbelly and slides help insulate your trailer. Additional exterior features include a 200W solar panel , back-up camera prep, frameless windows, and slam baggage doors. Each model includes the Great Expectations Package with roller shades, solid surface kitchen countertops , and hidden hinge cabinet doors. There is also an exterior hot/cold water port, outside speakers, a power tongue jack and stabilizer jacks, plus many more conveniences.</g:description>
   </item>
   <item>
-    <g:id>471043</g:id>
-    <g:vin>4X4TFLW23VD471043</g:vin>
-    <title>New 2027 Forest River RV Flagstaff Micro Lite 21FBRS</title>
-    <g:condition>new</g:condition>
-    <g:brand>Forest River RV</g:brand>
-    <g:model>Flagstaff Micro Lite</g:model>
-    <g:trim>21FBRS</g:trim>
-    <g:year>2027</g:year>
-    <g:mileage>0 Miles</g:mileage>
-    <g:google_product_category>4243</g:google_product_category>
-    <g:body_style>travel_trailer</g:body_style>
-    <g:price>35690.00 USD</g:price>
-    <g:vehicle_msrp>50619.00 USD</g:vehicle_msrp>
-    <g:link>https://www.stellhornrv.com/product/new-2027-forest-river-rv-flagstaff-micro-lite-21fbrs-3766254-29</g:link>
-    <g:link_template>https://www.stellhornrv.com/product/new-2027-forest-river-rv-flagstaff-micro-lite-21fbrs-3766254-29?store={store_code}</g:link_template>
-    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0904202614580014/unit_photo_202609040258001415888462.jpg</g:image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0903202615511991/unit_photo_202609030351199175392430.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0901202613221380/unit_photo_202609010122138075518466.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0901202613221394/unit_photo_202609010122139393585154.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0901202613221366/unit_photo_202609010122136583749134.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0901202613221433/unit_photo_20260901012214330208684.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0901202613221374/unit_photo_202609010122137448551524.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0901202613221364/unit_photo_202609010122136469785314.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0901202613221427/unit_photo_202609010122142735108888.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0901202613221434/unit_photo_202609010122143420578497.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0901202613221401/unit_photo_202609010122140087032123.jpg</g:additional_image_link>
-    <g:store_code>GD2151</g:store_code>
-    <g:vehicle_fulfillment>in_store</g:vehicle_fulfillment>
-    <g:vehicle_option>Front Bedroom</g:vehicle_option>
-    <g:color>White</g:color>
-    <g:description>Forest River Flagstaff Micro Lite travel trailer 21FBRS highlights: Pass-Through Storage RV Queen Bed Single Slide SolidStep Entry 14' Power Awning with LED Lights For the couple who is ready to get out and enjoy nature, this Flagstaff Micro Lite travel trailer is ideal for you! This unit has all of the basic amenities, like a rear corner bath with a radius shower, and a front RV queen bed that makes for a comfy night's rest. There is also flip-up storage under the bed for your bags, plus a privacy curtain! The slide out with the 72&quot; sofa provides extra interior space so that you won't feel cramped. You'll also be able to enjoy your meals here with a table in front of the sofa. After swimming all day working up your appetite, come back to this unit and cook a meal on the three-burner cooktop! This travel trailer features a pass-through storage for your larger camping items, plus an exterior storage to hold the kids' outdoor games. With any Flagstaff Micro Lite travel trailer by Forest River, you will enjoy lightweight towing, durable construction, and added interior comforts to make each trip memorable! Each model features a wheel-banded tire pressure monitoring system (TPMS) , Dexter Torflex axles, and nitrogen-filled Goodyear endurance tires for smooth towing from home to campground. The 6-sided aluminum frame and complete composite wall construction provides a strong foundation so you can enjoy your RV throughout your adventures, plus the radiant foil in the front cap, underbelly and slides help insulate your trailer. Additional exterior features include a 200W solar panel , back-up camera prep, frameless windows, and slam baggage doors. Each model includes the Great Expectations Package with roller shades, solid surface kitchen countertops , and hidden hinge cabinet doors. There is also an exterior hot/cold water port, outside speakers, a power tongue jack and stabilizer jacks, plus many more conveniences.</g:description>
-  </item>
-  <item>
-    <g:id>029125</g:id>
-    <g:vin>5ZT2PUGC6V4029125</g:vin>
-    <title>New 2027 Forest River RV Puma Camping Edition 18BHCE</title>
+    <g:id>028864</g:id>
+    <g:vin>5ZT2PUKB8V4028864</g:vin>
+    <title>New 2027 Forest River RV Puma Camping Edition 211FKCE</title>
     <g:condition>new</g:condition>
     <g:brand>Forest River RV</g:brand>
     <g:model>Puma Camping Edition</g:model>
-    <g:trim>18BHCE</g:trim>
+    <g:trim>211FKCE</g:trim>
     <g:year>2027</g:year>
     <g:mileage>0 Miles</g:mileage>
     <g:google_product_category>4243</g:google_product_category>
     <g:body_style>travel_trailer</g:body_style>
-    <g:price>19885.00 USD</g:price>
-    <g:vehicle_msrp>36968.00 USD</g:vehicle_msrp>
-    <g:link>https://www.stellhornrv.com/product/new-2027-forest-river-rv-puma-camping-edition-18bhce-3753370-29</g:link>
-    <g:link_template>https://www.stellhornrv.com/product/new-2027-forest-river-rv-puma-camping-edition-18bhce-3753370-29?store={store_code}</g:link_template>
-    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0825202615290483/unit_photo_202608250329048352894402.jpg</g:image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0824202620404302/unit_photo_202608240840430223267483.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0824202616430406/unit_photo_202608240443040587739311.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0824202616430412/unit_photo_202608240443041220790761.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0824202616430437/unit_photo_202608240443043684049851.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0824202616430480/unit_photo_202608240443048024000583.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0824202616430491/unit_photo_202608240443049092737377.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0824202616430448/unit_photo_202608240443044828016783.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0824202616430487/unit_photo_202608240443048711156565.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0824202616430485/unit_photo_202608240443048539473329.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0824202616430482/unit_photo_202608240443048277452306.jpg</g:additional_image_link>
+    <g:price>24385.00 USD</g:price>
+    <g:vehicle_msrp>43334.00 USD</g:vehicle_msrp>
+    <g:link>https://www.stellhornrv.com/product/new-2027-forest-river-rv-puma-camping-edition-211fkce-3733000-29</g:link>
+    <g:link_template>https://www.stellhornrv.com/product/new-2027-forest-river-rv-puma-camping-edition-211fkce-3733000-29?store={store_code}</g:link_template>
+    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0819202616111896/unit_photo_202608190411189639344978.jpg</g:image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0818202619582445/unit_photo_202608180758244544651363.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0807202615420296/unit_photo_20260807034202964417421.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0807202615420286/unit_photo_202608070342028654438660.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0807202615420286/unit_photo_202608070342028649583230.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0807202615420288/unit_photo_202608070342028872765481.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0807202615420289/unit_photo_202608070342028954313947.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0807202615420285/unit_photo_202608070342028569772309.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0807202615420290/unit_photo_202608070342029032163942.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0807202615420289/unit_photo_202608070342028908262996.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0807202615420284/unit_photo_202608070342028477949366.jpg</g:additional_image_link>
     <g:store_code>GD2151</g:store_code>
     <g:vehicle_fulfillment>in_store</g:vehicle_fulfillment>
-    <g:vehicle_option>Bunkhouse,Murphy Bed,Outdoor Kitchen,U Shaped Dinette</g:vehicle_option>
+    <g:vehicle_option>Front Kitchen,Rear Bedroom,Walk-Thru Bath</g:vehicle_option>
     <g:color>White</g:color>
-    <g:description>Forest River Puma Camping Edition travel trailer 18BHCE highlights: Double-Size Bunks Front RV Queen Bed Outside Storage Full Bath The whole gang will love camping in this travel trailer since there are double-size bunks for compact sleeping spaces and a slide out for more space to relax! The front RV queen bed is sure to provide a great night's rest, and you can choose the optional Murphy bed if you're needing more seating space during the day. Once you've made dinner on the two-burner cooktop, you can dine around the U-shaped dinette . And an optional mini kitchen with a griddle is available if you'd rather cook outdoors! This unit includes ample storage space for your things, including exterior storage and storage under the bunks ! The Puma Camping Edition by Forest River offer an affordable travel trailer for rookie campers or seasoned RVers! They are built with 5/8&quot; tongue and groove plywood flooring and a front diamond plate for added protection. There are also exterior magnetic baggage door latches , back up camera prep, a battery disconnect. Head inside to find Thermofoil countertops with a smooth drop edge, bedroom USB ports and outlets, and pleated shades in the living room.</g:description>
+    <g:description>Forest River Puma Camping Edition travel trailer 211FKCE highlights: Front Kitchen RV Queen Bed Walk-Thru Bath Outside Storage You'll love every minute in this front kitchen travel trailer. There is ample counter space to prep meals, a three-burner cooktop, a microwave oven, plus a 12V refrigerator and pantry for food storage. A sofa slide out with a table provides a place to dine and relax each evening, and there is an entertainment center with a fireplace to make your space cozier. Head through the full bath where you'll find the master bedroom, complete with an RV queen bed, dual shirt closets, and an optional TV! The Puma Camping Edition by Forest River offer an affordable travel trailer for rookie campers or seasoned RVers! They are built with 5/8&quot; tongue and groove plywood flooring and a front diamond plate for added protection. There are also exterior magnetic baggage door latches , back up camera prep, a battery disconnect. Head inside to find Thermofoil countertops with a smooth drop edge, bedroom USB ports and outlets, and pleated shades in the living room.</g:description>
+  </item>
+  <item>
+    <g:id>911663</g:id>
+    <g:vin>4X4FFLF21V1911663</g:vin>
+    <title>New 2027 Forest River RV Flagstaff Classic 290CFK</title>
+    <g:condition>new</g:condition>
+    <g:brand>Forest River RV</g:brand>
+    <g:model>Flagstaff Classic</g:model>
+    <g:trim>290CFK</g:trim>
+    <g:year>2027</g:year>
+    <g:mileage>0 Miles</g:mileage>
+    <g:google_product_category>4243</g:google_product_category>
+    <g:body_style>fifth_wheel</g:body_style>
+    <g:price>66994.00 USD</g:price>
+    <g:vehicle_msrp>95131.00 USD</g:vehicle_msrp>
+    <g:link>https://www.stellhornrv.com/product/new-2027-forest-river-rv-flagstaff-classic-290cfk-3700464-5</g:link>
+    <g:link_template>https://www.stellhornrv.com/product/new-2027-forest-river-rv-flagstaff-classic-290cfk-3700464-5?store={store_code}</g:link_template>
+    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0708202617405269/unit_photo_202607080540526936342509.jpg</g:image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0707202619032982/unit_photo_202607070703298237797499.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0702202617045521/unit_photo_20260702050455213633039.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0702202617045549/unit_photo_202607020504554945938975.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0702202617045517/unit_photo_202607020504551723364253.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0702202617045519/unit_photo_202607020504551927766116.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0702202617045511/unit_photo_202607020504551111958779.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0702202617045492/unit_photo_202607020504549225200853.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0702202617045516/unit_photo_202607020504551672770201.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0702202617045523/unit_photo_20260702050455229855148.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0702202617045488/unit_photo_202607020504548841691702.jpg</g:additional_image_link>
+    <g:store_code>GD2151</g:store_code>
+    <g:vehicle_fulfillment>in_store</g:vehicle_fulfillment>
+    <g:vehicle_option>Front Kitchen,Rear Bedroom</g:vehicle_option>
+    <g:color>White</g:color>
+    <g:description>Forest River Flagstaff Classic fifth wheel 290CFK highlights: Triple Slides Queen Bed Table &amp; Chairs Two Power Awnings Designed for campers who want residential comfort with a layout that feels open, inviting, and easy to live in. The living area is set up for relaxing just as much as entertaining, making it a great fit for extended stays or weekends when you want to truly unwind. The theater seating gives you a comfortable spot to kick back, whether you’re watching a movie or winding down after a long day. The bedroom features a queen bed , creating a cozy retreat that still leaves room to move comfortably around the space. In the rear bedroom, a dedicated vanity adds a touch of everyday convenience, giving you a practical place. The full bathroom offers everything you need in one well-designed space, helping the coach feel more like home than a camper. Outside, generous pass-thru storage makes it easy to bring along larger gear, tools, or outdoor furniture while keeping the interior clean and uncluttered. Each one of these Forest River Flagstaff Classic fifth wheels or travel trailers will be your home on wheels! Their quality craftsmanship and attention to detail shines through the enclosed underbelly, the fully laminated walkable roof , and six-sided full-aluminum frame. Towing your unit will be easy with the Goodyear Endurance tires plus RoadTech tire pressure monitoring . Additional exterior features include a 200W solar panel , slam baggage doors, a Key-Alike lock system, and double 30 lb. LP tanks to name a few conveniences. Head inside to find a residential style gas range , solid surface kitchen and bath countertops, soft close hidden cabinet hinges, and more comforts!</g:description>
   </item>
   <item>
     <g:id>911694</g:id>
@@ -663,70 +696,26 @@
     <g:description>Forest River Salem Grand Villa destination trailer 42ICE highlights: Two Lofts Steps to Loft Televator Walk-in Shower This trailer is built with comfort and convenience in mind, offering plenty of sleeping space for the whole gang. It has two spacious lofts, each equipped with two 42&quot; x 72&quot; bunk mats , plus an extra 36&quot; x 38&quot; bunk mat, providing cozy sleeping spots for everyone. Each loft also includes built-in storage for essentials, and instead of climbing a ladder, easy stair access makes getting in and out much safer. On the main floor, you’ll find a full rear bathroom with a walk-in shower and washer/dryer prep. The main living area has a large sectional sofa , perfect for gathering the group to watch the TV on the Televator or relaxing by the fireplace after a day outdoors. The kitchen is equipped with all the essentials, including a large pantry, overhead cabinets for snack storage, a fridge, and a kitchen island that adds prep space. Up front, the private bedroom has a king bed with Versa Tilt , a dresser, and shelves to keep your clothes and camp gear neatly organized. Regardless that you're adventuring about, this trailer is ready to make every trip feel like home. With any Salem Grand Villa destination trailer by Forest River, you can call home wherever you park it! There is a heated and enclosed Accessibelly for added protection, LED &quot;Blade Lighting&quot; under the awning, Lippert On-The-Go ladder prep, plus many more exterior conveniences. Elegant curtain rods and curtains will have you feeling right at home, along with stainless steel kitchen appliances, stylish roller shades, and enhanced floating shelves for added storage. Each model includes heavy duty cabinet hinges for safety and durability, a 60k on-demand tankless water heater for endless hot showers, a JBL 3-Zone media center , plus available options to further customize your trailer.</g:description>
   </item>
   <item>
-    <g:id>016631</g:id>
-    <g:vin>4X4TSMC29TY016631</g:vin>
-    <title>New 2026 Forest River RV Salem FSX 266BHLE</title>
-    <g:condition>new</g:condition>
-    <g:brand>Forest River RV</g:brand>
-    <g:model>Salem FSX</g:model>
-    <g:trim>266BHLE</g:trim>
-    <g:year>2026</g:year>
-    <g:mileage>0 Miles</g:mileage>
-    <g:google_product_category>4243</g:google_product_category>
-    <g:body_style>travel_trailer</g:body_style>
-    <g:price>18826.00 USD</g:price>
-    <g:vehicle_msrp>37210.00 USD</g:vehicle_msrp>
-    <g:link>https://www.stellhornrv.com/product/new-2026-forest-river-rv-salem-fsx-266bhle-3618450-29</g:link>
-    <g:link_template>https://www.stellhornrv.com/product/new-2026-forest-river-rv-salem-fsx-266bhle-3618450-29?store={store_code}</g:link_template>
-    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0601202617480541/unit_photo_202606010548054100376885.jpg</g:image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0601202616104076/unit_photo_202606010410407594489422.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612151988/unit_photo_202605131215198787691643.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612152015/unit_photo_202605131215201563409287.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612152016/unit_photo_202605131215201647087439.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612152005/unit_photo_202605131215200535665775.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612151971/unit_photo_202605131215197120272810.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612151993/unit_photo_202605131215199376007269.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612151971/unit_photo_202605131215197153998861.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612152004/unit_photo_202605131215200423464167.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612151988/unit_photo_20260513121519880816484.jpg</g:additional_image_link>
-    <g:store_code>GD2151</g:store_code>
-    <g:vehicle_fulfillment>in_store</g:vehicle_fulfillment>
-    <g:vehicle_option>Bunkhouse,Front Bedroom</g:vehicle_option>
-    <g:color>White</g:color>
-    <g:description>Forest River Salem FSX Limited Edition travel trailer 266BHLE highlights: Front Private Bedroom Kitchen Pantry Full Bath 12' 12V Power Awning King Bed Camping is made easy in this travel trailer with more sleeping space and lots of comforts! The kids or your guests will enjoy the double-size bunks in the back, along with the full bath close by for easy nighttime use. You'll have the front private bedroom with a custom king bed all to yourselves, and there are dual bedroom wardrobes to keep your space neat and clean. Everyone can meet in the combined kitchen and living room to relax on the super U-lounge with a removable table while the chef of your group makes breakfast on the two-burner cooktop. There is also a microwave oven for quick meals, plus a pantry and refrigerator for food storage! The Forest River Salem FSX travel trailers and toy hauler travel trailers are ultra comfortable and lightweight , perfect for first time or seasoned campers alike! You will love how easy it will be to relax with residential features that will make your space feel just like home, and the durable construction means you can enjoy your RV for years to come. There are a wide variety of floorplans to choose from, including couple's trailers, bunk models, and toy haulers, all with full bath and kitchen amenities and plenty of storage for all your gear!</g:description>
-  </item>
-  <item>
-    <g:id>438846</g:id>
-    <g:vin>4X4TSMZ23V7438846</g:vin>
-    <title>New 2027 Forest River RV Salem Cruise Lite 240BHXL</title>
+    <g:id>438873</g:id>
+    <g:vin>4X4TSMD27V7438873</g:vin>
+    <title>New 2027 Forest River RV Salem Cruise Lite 28VBXL</title>
     <g:condition>new</g:condition>
     <g:brand>Forest River RV</g:brand>
     <g:model>Salem Cruise Lite</g:model>
-    <g:trim>240BHXL</g:trim>
+    <g:trim>28VBXL</g:trim>
     <g:year>2027</g:year>
     <g:mileage>0 Miles</g:mileage>
     <g:google_product_category>4243</g:google_product_category>
     <g:body_style>travel_trailer</g:body_style>
     <g:price>27985.00 USD</g:price>
-    <g:vehicle_msrp>46418.00 USD</g:vehicle_msrp>
-    <g:link>https://www.stellhornrv.com/product/new-2027-forest-river-rv-salem-cruise-lite-240bhxl-3718263-29</g:link>
-    <g:link_template>https://www.stellhornrv.com/product/new-2027-forest-river-rv-salem-cruise-lite-240bhxl-3718263-29?store={store_code}</g:link_template>
-    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0729202620440880/unit_photo_202607290844088007367158.jpg</g:image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0727202616095854/unit_photo_202607270409585397000756.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0724202616453822/unit_photo_202607240445382207570157.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0724202616453818/unit_photo_202607240445381841314209.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0724202616453836/unit_photo_202607240445383585296952.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0724202616453847/unit_photo_20260724044538472904716.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0724202616453757/unit_photo_202607240445375755543101.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0724202616453834/unit_photo_202607240445383480651343.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0724202616453855/unit_photo_202607240445385529735457.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0724202616453841/unit_photo_202607240445384119522515.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0724202616453794/unit_photo_202607240445379394915627.jpg</g:additional_image_link>
+    <g:vehicle_msrp>49559.00 USD</g:vehicle_msrp>
+    <g:link>https://www.stellhornrv.com/product/new-2027-forest-river-rv-salem-cruise-lite-28vbxl-3815222-29</g:link>
+    <g:link_template>https://www.stellhornrv.com/product/new-2027-forest-river-rv-salem-cruise-lite-28vbxl-3815222-29?store={store_code}</g:link_template>
     <g:store_code>GD2151</g:store_code>
     <g:vehicle_fulfillment>in_store</g:vehicle_fulfillment>
-    <g:vehicle_option>Bunkhouse,Front Bedroom,U Shaped Dinette</g:vehicle_option>
+    <g:vehicle_option>Bunkhouse,Front Bedroom,Outdoor Kitchen</g:vehicle_option>
     <g:color>White</g:color>
-    <g:description>Forest River Salem Cruise Lite travel trailer 240BHXL highlights: Fireplace Refrigerator Double-Size Bunk Beds Walk-In Shower This travel trailer is big enough for the whole family to join in on the fun and weighs in at less than 6,000 lbs.! The kiddos can sleep on the corner 46&quot; 74&quot; double-size bunk beds , and you can sleep on the Versa Tilt custom king bed inside the front private bedroom, plus the U-shaped dinette can transform into an extra sleeping space. It also has a panoramic window for you to look out at your beautiful scenery while you eat. The rear corner bathroom has everything you will need to get squeaky clean each morning. The refrigerator will keep your perishables fresh, and the cooktop is just waiting for you to create a delicious meal. There is also a walk-in pantry for canned goods and snacks! The Salem Cruise Lite travel trailers are packed with hassle-free camping amenities! There are a variety of floorplans to choose from so you can find the best one to fit your needs. The enclosed Accessibelly will help protect against the elements and debris during transport, and the exterior retro/metal redesign i s sure to be eye-catching! There are stylish roller shades inside, along with updated backsplash, elegant curtain rods and curtains, plus many more interior comforts! Choose a Salem Cruise Lite travel trailer today for quality and value!</g:description>
+    <g:description>Forest River Salem Cruise Lite travel trailer 28VBXL highlights: Fireplace Rear Private Bunkhouse Camp Kitchen Custom King Bed Enjoy a travel trailer with space for the whole crew! The rear private bunkhouse has two Flip Up bunks and a Versa flip sofa so that more can join in on the camping fun. Start each morning feeling clean and fresh after showering in the full bathroom , then head to the front private bedroom to change. The kitchen has a refrigerator to keep your perishables fresh, a cooktop for meals, and a booth dinette for dining, game time, or just hanging out. You can also lounge back on the sofa and enjoy the warmth from the fireplace and the entertainment center. The Salem Cruise Lite travel trailers are packed with hassle-free camping amenities! Designed for comfort and convenience, these trailers bring premium features together in one thoughtfully crafted space. Enjoy reliable comfort with the hot water 60K BTU tankless water heater , providing hot water when you need it without the limitations of a traditional tank. The best-in-class extra large 12V refrigerator offers generous cold-storage capacity for everything from weekend getaways to longer journeys. Relax and take in the scenery through campfire view panoramic picture windows , designed to bring the outdoors in while creating a bright, open atmosphere. At the end of the day, stretch out and recharge on the stretch-out custom king bed , giving you the spacious comfort you deserve wherever the road takes you.</g:description>
   </item>
   <item>
     <g:id>460087</g:id>
@@ -810,7 +799,7 @@
     <g:vehicle_msrp>39024.00 USD</g:vehicle_msrp>
     <g:link>https://www.stellhornrv.com/product/new-2027-gulf-stream-rv-vintage-cruiser-19erd-3815531-29</g:link>
     <g:link_template>https://www.stellhornrv.com/product/new-2027-gulf-stream-rv-vintage-cruiser-19erd-3815531-29?store={store_code}</g:link_template>
-    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m1027202619501148/unit_photo_202610270750114798524646.jpg</g:image_link>
+    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m1028202615222730/unit_photo_202610280322272998750637.jpg</g:image_link>
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m1027202619501129/unit_photo_202610270750112894310919.jpg</g:additional_image_link>
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m1027202619501119/unit_photo_202610270750111964358369.jpg</g:additional_image_link>
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m1027202619501126/unit_photo_202610270750112625971100.jpg</g:additional_image_link>
@@ -1056,59 +1045,91 @@
     <g:description>Call for details.</g:description>
   </item>
   <item>
-    <g:id>438873</g:id>
-    <g:vin>4X4TSMD27V7438873</g:vin>
-    <title>New 2027 Forest River RV Salem Cruise Lite 28VBXL</title>
+    <g:id>018297</g:id>
+    <g:vin>7L5TSM415VC018297</g:vin>
+    <title>New 2027 Forest River RV Salem FSX 135ICE</title>
     <g:condition>new</g:condition>
     <g:brand>Forest River RV</g:brand>
-    <g:model>Salem Cruise Lite</g:model>
-    <g:trim>28VBXL</g:trim>
+    <g:model>Salem FSX</g:model>
+    <g:trim>135ICE</g:trim>
     <g:year>2027</g:year>
     <g:mileage>0 Miles</g:mileage>
     <g:google_product_category>4243</g:google_product_category>
     <g:body_style>travel_trailer</g:body_style>
-    <g:price>27985.00 USD</g:price>
-    <g:vehicle_msrp>49559.00 USD</g:vehicle_msrp>
-    <g:link>https://www.stellhornrv.com/product/new-2027-forest-river-rv-salem-cruise-lite-28vbxl-3815222-29</g:link>
-    <g:link_template>https://www.stellhornrv.com/product/new-2027-forest-river-rv-salem-cruise-lite-28vbxl-3815222-29?store={store_code}</g:link_template>
+    <g:price>12995.00 USD</g:price>
+    <g:vehicle_msrp>27071.00 USD</g:vehicle_msrp>
+    <g:link>https://www.stellhornrv.com/product/new-2027-forest-river-rv-salem-fsx-135ice-3832961-29</g:link>
+    <g:link_template>https://www.stellhornrv.com/product/new-2027-forest-river-rv-salem-fsx-135ice-3832961-29?store={store_code}</g:link_template>
     <g:store_code>GD2151</g:store_code>
     <g:vehicle_fulfillment>in_store</g:vehicle_fulfillment>
-    <g:vehicle_option>Bunkhouse,Front Bedroom,Outdoor Kitchen</g:vehicle_option>
     <g:color>White</g:color>
-    <g:description>Forest River Salem Cruise Lite travel trailer 28VBXL highlights: Fireplace Rear Private Bunkhouse Camp Kitchen Custom King Bed Enjoy a travel trailer with space for the whole crew! The rear private bunkhouse has two Flip Up bunks and a Versa flip sofa so that more can join in on the camping fun. Start each morning feeling clean and fresh after showering in the full bathroom , then head to the front private bedroom to change. The kitchen has a refrigerator to keep your perishables fresh, a cooktop for meals, and a booth dinette for dining, game time, or just hanging out. You can also lounge back on the sofa and enjoy the warmth from the fireplace and the entertainment center. The Salem Cruise Lite travel trailers are packed with hassle-free camping amenities! Designed for comfort and convenience, these trailers bring premium features together in one thoughtfully crafted space. Enjoy reliable comfort with the hot water 60K BTU tankless water heater , providing hot water when you need it without the limitations of a traditional tank. The best-in-class extra large 12V refrigerator offers generous cold-storage capacity for everything from weekend getaways to longer journeys. Relax and take in the scenery through campfire view panoramic picture windows , designed to bring the outdoors in while creating a bright, open atmosphere. At the end of the day, stretch out and recharge on the stretch-out custom king bed , giving you the spacious comfort you deserve wherever the road takes you.</g:description>
+    <g:description>Forest River Salem FSX travel trailer 135ICE highlights: Walk-In Shower 12V Refrigerator Overhead Storage Sleeps Three This lightweight travel trailer has everything you need to enjoy camping trips! There is a front east to west custom queen bed with storage at the foot of the bed and overhead for your valuables. A private bath includes a toilet and walk-in shower so you can easily get ready each day, and you can prepare your meals on the two-burner cooktop when you get hungry. The booth dinette will provide dining space, along with sleeping space for one to two little ones. Don't let this trailer get away! The Forest River Salem FSX travel trailers and toy hauler travel trailers are designed to make camping comfortable, convenient, and easy to enjoy, whether you're heading out for a quick weekend or settling in for a longer stay. Across both lineups, you'll appreciate the convenience of a 60K BTU tankless water heater , along with pet-friendly ductless/ventless floors that help keep the interior practical for everyday use. Each lineup also includes backup camera prep and rooftop solar prep to support your time on the road and at camp. A full-size spare tire adds extra peace of mind while traveling, while features like pet-friendly floors and solar prep help round out a setup built for simple, enjoyable adventures.</g:description>
   </item>
   <item>
-    <g:id>016553</g:id>
-    <g:vin>4X4TSMY23TY016553</g:vin>
-    <title>New 2026 Forest River RV Salem FSX 233RBLE</title>
+    <g:id>016631</g:id>
+    <g:vin>4X4TSMC29TY016631</g:vin>
+    <title>New 2026 Forest River RV Salem FSX 266BHLE</title>
     <g:condition>new</g:condition>
     <g:brand>Forest River RV</g:brand>
     <g:model>Salem FSX</g:model>
-    <g:trim>233RBLE</g:trim>
+    <g:trim>266BHLE</g:trim>
     <g:year>2026</g:year>
     <g:mileage>0 Miles</g:mileage>
     <g:google_product_category>4243</g:google_product_category>
     <g:body_style>travel_trailer</g:body_style>
     <g:price>18826.00 USD</g:price>
-    <g:vehicle_msrp>36868.00 USD</g:vehicle_msrp>
-    <g:link>https://www.stellhornrv.com/product/new-2026-forest-river-rv-salem-fsx-233rble-3611920-29</g:link>
-    <g:link_template>https://www.stellhornrv.com/product/new-2026-forest-river-rv-salem-fsx-233rble-3611920-29?store={store_code}</g:link_template>
-    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0601202617471983/unit_photo_202606010547198329133694.jpg</g:image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0601202616101023/unit_photo_202606010410102379900439.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612070875/unit_photo_202605131207087486222594.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612070871/unit_photo_202605131207087182290923.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612070849/unit_photo_202605131207084931387298.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612070855/unit_photo_202605131207085535503191.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612070792/unit_photo_202605131207079223922807.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612070851/unit_photo_202605131207085164892544.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612070857/unit_photo_202605131207085684274869.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612070854/unit_photo_202605131207085423844605.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612070861/unit_photo_202605131207086159781689.jpg</g:additional_image_link>
+    <g:vehicle_msrp>37210.00 USD</g:vehicle_msrp>
+    <g:link>https://www.stellhornrv.com/product/new-2026-forest-river-rv-salem-fsx-266bhle-3618450-29</g:link>
+    <g:link_template>https://www.stellhornrv.com/product/new-2026-forest-river-rv-salem-fsx-266bhle-3618450-29?store={store_code}</g:link_template>
+    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0601202617480541/unit_photo_202606010548054100376885.jpg</g:image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0601202616104076/unit_photo_202606010410407594489422.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612151988/unit_photo_202605131215198787691643.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612152015/unit_photo_202605131215201563409287.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612152016/unit_photo_202605131215201647087439.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612152005/unit_photo_202605131215200535665775.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612151971/unit_photo_202605131215197120272810.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612151993/unit_photo_202605131215199376007269.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612151971/unit_photo_202605131215197153998861.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612152004/unit_photo_202605131215200423464167.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612151988/unit_photo_20260513121519880816484.jpg</g:additional_image_link>
     <g:store_code>GD2151</g:store_code>
     <g:vehicle_fulfillment>in_store</g:vehicle_fulfillment>
-    <g:vehicle_option>Front Bedroom,Rear Bath</g:vehicle_option>
+    <g:vehicle_option>Bunkhouse,Front Bedroom</g:vehicle_option>
     <g:color>White</g:color>
-    <g:description>Forest River Salem FSX Limited Edition travel trailer 233RBLE highlights: Front Private Bedroom Kitchen Pantry Full Rear Bath 12V Power Awning King Bed Camping is made easy in this travel trailer with at-home comforts! You'll have the front private bedroom with a king bed all to yourselves, and there are dual bedroom wardrobes to keep your space neat and clean. Any additional guests can sleep on the super lounge with a removable table. You will appreciate the full rear bath complete with a linen closet and dual bath sinks so you both can get ready for bed at once. And a full kitchen lets you whip up your best meals! The Forest River Salem FSX travel trailers and toy hauler travel trailers are ultra comfortable and lightweight , perfect for first time or seasoned campers alike! You will love how easy it will be to relax with residential features that will make your space feel just like home, and the durable construction means you can enjoy your RV for years to come. There are a wide variety of floorplans to choose from, including couple's trailers, bunk models, and toy haulers, all with full bath and kitchen amenities and plenty of storage for all your gear!</g:description>
+    <g:description>Forest River Salem FSX Limited Edition travel trailer 266BHLE highlights: Front Private Bedroom Kitchen Pantry Full Bath 12' 12V Power Awning King Bed Camping is made easy in this travel trailer with more sleeping space and lots of comforts! The kids or your guests will enjoy the double-size bunks in the back, along with the full bath close by for easy nighttime use. You'll have the front private bedroom with a custom king bed all to yourselves, and there are dual bedroom wardrobes to keep your space neat and clean. Everyone can meet in the combined kitchen and living room to relax on the super U-lounge with a removable table while the chef of your group makes breakfast on the two-burner cooktop. There is also a microwave oven for quick meals, plus a pantry and refrigerator for food storage! The Forest River Salem FSX travel trailers and toy hauler travel trailers are ultra comfortable and lightweight , perfect for first time or seasoned campers alike! You will love how easy it will be to relax with residential features that will make your space feel just like home, and the durable construction means you can enjoy your RV for years to come. There are a wide variety of floorplans to choose from, including couple's trailers, bunk models, and toy haulers, all with full bath and kitchen amenities and plenty of storage for all your gear!</g:description>
+  </item>
+  <item>
+    <g:id>438846</g:id>
+    <g:vin>4X4TSMZ23V7438846</g:vin>
+    <title>New 2027 Forest River RV Salem Cruise Lite 240BHXL</title>
+    <g:condition>new</g:condition>
+    <g:brand>Forest River RV</g:brand>
+    <g:model>Salem Cruise Lite</g:model>
+    <g:trim>240BHXL</g:trim>
+    <g:year>2027</g:year>
+    <g:mileage>0 Miles</g:mileage>
+    <g:google_product_category>4243</g:google_product_category>
+    <g:body_style>travel_trailer</g:body_style>
+    <g:price>27985.00 USD</g:price>
+    <g:vehicle_msrp>46418.00 USD</g:vehicle_msrp>
+    <g:link>https://www.stellhornrv.com/product/new-2027-forest-river-rv-salem-cruise-lite-240bhxl-3718263-29</g:link>
+    <g:link_template>https://www.stellhornrv.com/product/new-2027-forest-river-rv-salem-cruise-lite-240bhxl-3718263-29?store={store_code}</g:link_template>
+    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0729202620440880/unit_photo_202607290844088007367158.jpg</g:image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0727202616095854/unit_photo_202607270409585397000756.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0724202616453822/unit_photo_202607240445382207570157.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0724202616453818/unit_photo_202607240445381841314209.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0724202616453836/unit_photo_202607240445383585296952.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0724202616453847/unit_photo_20260724044538472904716.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0724202616453757/unit_photo_202607240445375755543101.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0724202616453834/unit_photo_202607240445383480651343.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0724202616453855/unit_photo_202607240445385529735457.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0724202616453841/unit_photo_202607240445384119522515.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0724202616453794/unit_photo_202607240445379394915627.jpg</g:additional_image_link>
+    <g:store_code>GD2151</g:store_code>
+    <g:vehicle_fulfillment>in_store</g:vehicle_fulfillment>
+    <g:vehicle_option>Bunkhouse,Front Bedroom,U Shaped Dinette</g:vehicle_option>
+    <g:color>White</g:color>
+    <g:description>Forest River Salem Cruise Lite travel trailer 240BHXL highlights: Fireplace Refrigerator Double-Size Bunk Beds Walk-In Shower This travel trailer is big enough for the whole family to join in on the fun and weighs in at less than 6,000 lbs.! The kiddos can sleep on the corner 46&quot; 74&quot; double-size bunk beds , and you can sleep on the Versa Tilt custom king bed inside the front private bedroom, plus the U-shaped dinette can transform into an extra sleeping space. It also has a panoramic window for you to look out at your beautiful scenery while you eat. The rear corner bathroom has everything you will need to get squeaky clean each morning. The refrigerator will keep your perishables fresh, and the cooktop is just waiting for you to create a delicious meal. There is also a walk-in pantry for canned goods and snacks! The Salem Cruise Lite travel trailers are packed with hassle-free camping amenities! There are a variety of floorplans to choose from so you can find the best one to fit your needs. The enclosed Accessibelly will help protect against the elements and debris during transport, and the exterior retro/metal redesign i s sure to be eye-catching! There are stylish roller shades inside, along with updated backsplash, elegant curtain rods and curtains, plus many more interior comforts! Choose a Salem Cruise Lite travel trailer today for quality and value!</g:description>
   </item>
   <item>
     <g:id>073134</g:id>
@@ -1407,69 +1428,68 @@
     <g:description>Call for details.</g:description>
   </item>
   <item>
-    <g:id>028864</g:id>
-    <g:vin>5ZT2PUKB8V4028864</g:vin>
-    <title>New 2027 Forest River RV Puma Camping Edition 211FKCE</title>
-    <g:condition>new</g:condition>
-    <g:brand>Forest River RV</g:brand>
-    <g:model>Puma Camping Edition</g:model>
-    <g:trim>211FKCE</g:trim>
-    <g:year>2027</g:year>
-    <g:mileage>0 Miles</g:mileage>
-    <g:google_product_category>4243</g:google_product_category>
-    <g:body_style>travel_trailer</g:body_style>
-    <g:price>24385.00 USD</g:price>
-    <g:vehicle_msrp>43334.00 USD</g:vehicle_msrp>
-    <g:link>https://www.stellhornrv.com/product/new-2027-forest-river-rv-puma-camping-edition-211fkce-3733000-29</g:link>
-    <g:link_template>https://www.stellhornrv.com/product/new-2027-forest-river-rv-puma-camping-edition-211fkce-3733000-29?store={store_code}</g:link_template>
-    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0819202616111896/unit_photo_202608190411189639344978.jpg</g:image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0818202619582445/unit_photo_202608180758244544651363.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0807202615420296/unit_photo_20260807034202964417421.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0807202615420286/unit_photo_202608070342028654438660.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0807202615420286/unit_photo_202608070342028649583230.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0807202615420288/unit_photo_202608070342028872765481.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0807202615420289/unit_photo_202608070342028954313947.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0807202615420285/unit_photo_202608070342028569772309.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0807202615420290/unit_photo_202608070342029032163942.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0807202615420289/unit_photo_202608070342028908262996.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0807202615420284/unit_photo_202608070342028477949366.jpg</g:additional_image_link>
-    <g:store_code>GD2151</g:store_code>
-    <g:vehicle_fulfillment>in_store</g:vehicle_fulfillment>
-    <g:vehicle_option>Front Kitchen,Rear Bedroom,Walk-Thru Bath</g:vehicle_option>
-    <g:color>White</g:color>
-    <g:description>Forest River Puma Camping Edition travel trailer 211FKCE highlights: Front Kitchen RV Queen Bed Walk-Thru Bath Outside Storage You'll love every minute in this front kitchen travel trailer. There is ample counter space to prep meals, a three-burner cooktop, a microwave oven, plus a 12V refrigerator and pantry for food storage. A sofa slide out with a table provides a place to dine and relax each evening, and there is an entertainment center with a fireplace to make your space cozier. Head through the full bath where you'll find the master bedroom, complete with an RV queen bed, dual shirt closets, and an optional TV! The Puma Camping Edition by Forest River offer an affordable travel trailer for rookie campers or seasoned RVers! They are built with 5/8&quot; tongue and groove plywood flooring and a front diamond plate for added protection. There are also exterior magnetic baggage door latches , back up camera prep, a battery disconnect. Head inside to find Thermofoil countertops with a smooth drop edge, bedroom USB ports and outlets, and pleated shades in the living room.</g:description>
-  </item>
-  <item>
-    <g:id>022301</g:id>
-    <g:vin>5ZT2FERB7NW022301</g:vin>
-    <title>Used 2022 Coachmen RV Freedom Express Ultra Lite 257BHS</title>
+    <g:id>971922</g:id>
+    <g:vin>4YDTKDH18NJ971922</g:vin>
+    <title>Used 2022 Dutchmen RV Kodiak Cub 196BH</title>
     <g:condition>used</g:condition>
-    <g:brand>Coachmen RV</g:brand>
-    <g:model>Freedom Express Ultra Lite</g:model>
-    <g:trim>257BHS</g:trim>
+    <g:brand>Dutchmen RV</g:brand>
+    <g:model>Kodiak Cub</g:model>
+    <g:trim>196BH</g:trim>
     <g:year>2022</g:year>
     <g:mileage>0 Miles</g:mileage>
     <g:google_product_category>4243</g:google_product_category>
     <g:body_style>travel_trailer</g:body_style>
-    <g:price>19985.00 USD</g:price>
-    <g:link>https://www.stellhornrv.com/product/used-2022-coachmen-rv-freedom-express-ultra-lite-257bhs-3616455-29</g:link>
-    <g:link_template>https://www.stellhornrv.com/product/used-2022-coachmen-rv-freedom-express-ultra-lite-257bhs-3616455-29?store={store_code}</g:link_template>
-    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612370764/unit_photo_20260513123707645040884.jpg</g:image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612370768/unit_photo_202605131237076817976860.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612370757/unit_photo_202605131237075765564995.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612370764/unit_photo_202605131237076394513134.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612370678/unit_photo_202605131237067850226811.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612370727/unit_photo_20260513123707275251216.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612370698/unit_photo_202605131237069802589294.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612370761/unit_photo_202605131237076157801989.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612370750/unit_photo_20260513123707505066670.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612370758/unit_photo_202605131237075829138249.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612370724/unit_photo_202605131237072474152539.jpg</g:additional_image_link>
+    <g:price>15800.00 USD</g:price>
+    <g:link>https://www.stellhornrv.com/product/used-2022-dutchmen-rv-kodiak-cub-196bh-2963919-29</g:link>
+    <g:link_template>https://www.stellhornrv.com/product/used-2022-dutchmen-rv-kodiak-cub-196bh-2963919-29?store={store_code}</g:link_template>
+    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m1028202615480962/unit_photo_202610280348096245149545.jpg</g:image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0625202518111897/unit_photo_202506250611189736192499.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0625202518111307/unit_photo_20250625061113073413199.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0625202518111308/unit_photo_202506250611130788015237.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0625202518111218/unit_photo_202506250611121793525958.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0625202518111285/unit_photo_202506250611128494267933.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0625202518111798/unit_photo_202506250611179878353419.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0625202518111897/unit_photo_202506250611189728454490.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0625202518111789/unit_photo_202506250611178900793412.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0625202518111136/unit_photo_202506250611113626026803.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0625202518111198/unit_photo_202506250611119849236721.jpg</g:additional_image_link>
     <g:store_code>GD2151</g:store_code>
     <g:vehicle_fulfillment>in_store</g:vehicle_fulfillment>
-    <g:vehicle_option>Bunkhouse,Front Bedroom,Outdoor Kitchen,U Shaped Dinette</g:vehicle_option>
+    <g:vehicle_option>Bunkhouse,Outdoor Kitchen</g:vehicle_option>
     <g:color>White</g:color>
-    <g:description>Coachmen Freedom Express Ultra Lite travel trailer 257BHS highlights: 20' Power Awning with LED Lights Outdoor Shower Full Bath Three Burner Cooktop Vaulted Under-Bed Storage Double-size bunks make this travel trailer ready for fun! You will appreciate the front private bedroom with its queen bed and dual wardrobes, and any other guests can sleep on the U-shaped dinette . The chef of your group can cook indoors on the three burner cooktop, or outdoors on the pull-out camp kitchen . This model also includes a full bath with a tub/shower that will make bath time for the littles easier than ever, and there is plenty of storage space throughout this model for all your belongings. With any Freedom Express Ultra Lite travel trailer by Coachmen you will appreciate quality construction materials, such as vacuum bonded walls with Azdel composite, a 3/4 gel coated fiberglass cap with an automotive glass windshield, and a heated enclosed underbelly. Each model also features Tufflex PVC roofing , front diamond plate, and E-Z Lube axles for smooth towing. You'll find Carefree flooring indoors, as well as night shades, a dual basin American stonecast sink, and hidden hinge cabinetry. The power tongue jack included with the Ultra Lite Express Pack will make set-up a breeze, and each model includes back-up camera prep and they are Freedom solar ready if you plan to go off-grid. Enjoy lightweight camping with a Freedom Express Ultra Lite travel trailer today!</g:description>
+    <g:description>Dutchmen Kodiak Cub travel trailer 196BH highlights: Bunk Beds Booth Dinette Queen Bed Outside Kitchen Pass-Through Storage You can go camping with the whole gang in this travel trailer! The kiddos or guests can sleep on the set of bunk beds and you can sleep on the front queen bed which has USB ports to charge your electronics. Start each morning with a full belly after frying up some bacon and eggs on the two burner range with glass cover and enjoy them at the booth dinette with an indoor/outdoor table slide. You could even prepare your meals at the outdoor kitchen and breathe in some fresh air while you cook. There is also a rear corner bathroom for everyone to freshen up in with a skylight above the shower! Each one of these lightweight Dutchmen RV Kodiak Cub travel trailers are built with an aluminum super-structure so they can be towed by most of today's SUV's, minivans, crossovers, and light trucks! A heated and enclosed underbelly will keep your unit's vitals protected from the elements so you can travel longer in the year, and the front diamond plate will protect it from road debris. A laminated crowned roof covers your unit and HyperDeck flooring lines the inside. Enjoy a sweat free summer with a 13,500 BTU A/C unit and safely enter/exit the unit with the hybrid aluminum steps that are easy to open and close. Come see all of the function packed into these units today!</g:description>
+  </item>
+  <item>
+    <g:id>411766</g:id>
+    <g:vin>4YDTPPL28SD411766</g:vin>
+    <title>Used 2025 Keystone RV Passport Super Lite 2450RK</title>
+    <g:condition>used</g:condition>
+    <g:brand>Keystone RV</g:brand>
+    <g:model>Passport Super Lite</g:model>
+    <g:trim>2450RK</g:trim>
+    <g:year>2025</g:year>
+    <g:mileage>0 Miles</g:mileage>
+    <g:google_product_category>4243</g:google_product_category>
+    <g:body_style>travel_trailer</g:body_style>
+    <g:price>32995.00 USD</g:price>
+    <g:link>https://www.stellhornrv.com/product/used-2025-keystone-rv-passport-super-lite-2450rk-3758482-29</g:link>
+    <g:link_template>https://www.stellhornrv.com/product/used-2025-keystone-rv-passport-super-lite-2450rk-3758482-29?store={store_code}</g:link_template>
+    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0821202614360386/unit_photo_202608210236038648587730.jpg</g:image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0821202614360372/unit_photo_202608210236037229937487.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0821202614360361/unit_photo_202608210236036124693315.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0821202614360292/unit_photo_202608210236029239146149.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0821202614360371/unit_photo_202608210236037155695746.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0821202614360384/unit_photo_20260821023603843226871.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0821202614360384/unit_photo_202608210236038441565251.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0821202614360373/unit_photo_202608210236037304319885.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0821202614360357/unit_photo_20260821023603574406415.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0821202614360354/unit_photo_202608210236035388381537.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0821202614360356/unit_photo_202608210236035653995660.jpg</g:additional_image_link>
+    <g:store_code>GD2151</g:store_code>
+    <g:vehicle_fulfillment>in_store</g:vehicle_fulfillment>
+    <g:vehicle_option>Front Bedroom,Outdoor Kitchen,Rear Kitchen,Two Entry/Exit Doors,Walk-Thru Bath</g:vehicle_option>
+    <g:color>White</g:color>
+    <g:description>Keystone Passport Super Lite travel trailer 2450RK highlights: Rear Kitchen Booth Dinette Dual Entry Doors Pass-Thru Storage Are you looking to upgrade from a tent to a travel trailer? This dual axle unit may be the one! Since there are dual entry doors, you can enter in through the front master bedroom with a queen bed or the rear kitchen with ample counter space . Your crew can relax on the tri-fold sofa , play a game at the booth dinette, or visit outdoors under the 19' awning. There is also an outdoor kitchen here for a sunrise breakfast! The walk-thru bath is easily accessible for everyone to use, and you'll find plenty of storage space throughout, including a large pantry, overhead compartments, and dual bedroom wardrobes and nightstands. With any Keystone Passport Super Lite travel trailer you will enjoy lightweight towing and lots of interior comforts! The power tongue jack lets you hitch up at the drop of a hat, and the Dexter torsion axle rubber ride suspension will make towing easier than ever. You will appreciate having power stabilizer jacks for quick setup and an exterior convenience center to monitor tank levels. These trailers are constructed with a seamless, laminated and gel-coated filon exterior, 80% tinted safety glass windows, and a one-piece polypropylene underbelly . The interior will have you feeling right at home with residential durable Beauflor vinyl flooring, deluxe night shades, LED lighting throughout, and seamless kitchen countertops to name a few comforts.</g:description>
   </item>
   <item>
     <g:id>068792</g:id>
@@ -1775,7 +1795,8 @@
     <g:price>25800.00 USD</g:price>
     <g:link>https://www.stellhornrv.com/product/used-2022-dutchmen-rv-kodiak-ultimate-3021rbds-3530658-29</g:link>
     <g:link_template>https://www.stellhornrv.com/product/used-2022-dutchmen-rv-kodiak-ultimate-3021rbds-3530658-29?store={store_code}</g:link_template>
-    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0317202617573897/unit_photo_202603170557389714570311.jpg</g:image_link>
+    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m1028202615244962/unit_photo_202610280324496231051520.jpg</g:image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0317202617573897/unit_photo_202603170557389714570311.jpg</g:additional_image_link>
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0317202617573889/unit_photo_202603170557388977091247.jpg</g:additional_image_link>
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0317202617573879/unit_photo_202603170557387908593152.jpg</g:additional_image_link>
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0317202617573916/unit_photo_20260317055739158350499.jpg</g:additional_image_link>
@@ -1785,7 +1806,6 @@
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0317202617573861/unit_photo_202603170557386168212851.jpg</g:additional_image_link>
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0317202617573820/unit_photo_202603170557382076920140.jpg</g:additional_image_link>
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0317202617573906/unit_photo_202603170557390593205145.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0317202617573925/unit_photo_202603170557392547747332.jpg</g:additional_image_link>
     <g:store_code>GD2151</g:store_code>
     <g:vehicle_fulfillment>in_store</g:vehicle_fulfillment>
     <g:vehicle_option>Front Bedroom,Outdoor Kitchen,Rear Bath,U Shaped Dinette</g:vehicle_option>
@@ -1793,68 +1813,68 @@
     <g:description>Dutchmen Kodiak Ultimate travel trailer 3021RBDS highlights: Theater Seats Dual Slide Outs Outside Kitchen Hidden Pantry Pass-Through Storage Head to your favorite state park in this cozy travel trailer. You will love the spacious full rear bath that includes plenty of storage space for necessities and clean towels. The U-shaped dinette can be used to dine on or sleep on, so invite a couple friends along. Head to the kitchen to prepare lunch on the three burner cooktop with an oven, or you can use the outside kitchen to grill the catch-of-the-day on! This model also includes a front private bedroom with a slide out king bed, a fireplace, plus a front bench seat where you can easily put your hiking boots on! Each Kodiak Ultimate travel trailer by Dutchmen is constructed with a laminated crowned roof , a gel coat high gloss fiberglass exterior, and diamond plate front rock guard to protect your RV from rock and debris on the way to the campground. The hybrid aluminum entry steps are not only dependably, but they collapse and expand quickly so you can get on the road in no-time! These models feature HyperDeck flooring that includes fiberglass reinforced polypropolene and a fully enclosed underbelly, and the Bear Cave storage allows you to bring along all of your hiking and fishing gear. Some of the other interior features you are sure to love are the kitchen and bath skylights, the oversized dinette windows , night shades throughout, and more. Your next adventure starts with a Kodiak Ultimate travel trailer!</g:description>
   </item>
   <item>
-    <g:id>971922</g:id>
-    <g:vin>4YDTKDH18NJ971922</g:vin>
-    <title>Used 2022 Dutchmen RV Kodiak Cub 196BH</title>
-    <g:condition>used</g:condition>
-    <g:brand>Dutchmen RV</g:brand>
-    <g:model>Kodiak Cub</g:model>
-    <g:trim>196BH</g:trim>
-    <g:year>2022</g:year>
-    <g:mileage>0 Miles</g:mileage>
-    <g:google_product_category>4243</g:google_product_category>
-    <g:body_style>travel_trailer</g:body_style>
-    <g:price>15800.00 USD</g:price>
-    <g:link>https://www.stellhornrv.com/product/used-2022-dutchmen-rv-kodiak-cub-196bh-2963919-29</g:link>
-    <g:link_template>https://www.stellhornrv.com/product/used-2022-dutchmen-rv-kodiak-cub-196bh-2963919-29?store={store_code}</g:link_template>
-    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0815202519540519/unit_photo_202508150754051951185988.png</g:image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0625202518111897/unit_photo_202506250611189736192499.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0625202518111307/unit_photo_20250625061113073413199.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0625202518111308/unit_photo_202506250611130788015237.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0625202518111218/unit_photo_202506250611121793525958.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0625202518111285/unit_photo_202506250611128494267933.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0625202518111798/unit_photo_202506250611179878353419.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0625202518111897/unit_photo_202506250611189728454490.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0625202518111789/unit_photo_202506250611178900793412.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0625202518111136/unit_photo_202506250611113626026803.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0625202518111198/unit_photo_202506250611119849236721.jpg</g:additional_image_link>
-    <g:store_code>GD2151</g:store_code>
-    <g:vehicle_fulfillment>in_store</g:vehicle_fulfillment>
-    <g:vehicle_option>Bunkhouse,Outdoor Kitchen</g:vehicle_option>
-    <g:color>White</g:color>
-    <g:description>Dutchmen Kodiak Cub travel trailer 196BH highlights: Bunk Beds Booth Dinette Queen Bed Outside Kitchen Pass-Through Storage You can go camping with the whole gang in this travel trailer! The kiddos or guests can sleep on the set of bunk beds and you can sleep on the front queen bed which has USB ports to charge your electronics. Start each morning with a full belly after frying up some bacon and eggs on the two burner range with glass cover and enjoy them at the booth dinette with an indoor/outdoor table slide. You could even prepare your meals at the outdoor kitchen and breathe in some fresh air while you cook. There is also a rear corner bathroom for everyone to freshen up in with a skylight above the shower! Each one of these lightweight Dutchmen RV Kodiak Cub travel trailers are built with an aluminum super-structure so they can be towed by most of today's SUV's, minivans, crossovers, and light trucks! A heated and enclosed underbelly will keep your unit's vitals protected from the elements so you can travel longer in the year, and the front diamond plate will protect it from road debris. A laminated crowned roof covers your unit and HyperDeck flooring lines the inside. Enjoy a sweat free summer with a 13,500 BTU A/C unit and safely enter/exit the unit with the hybrid aluminum steps that are easy to open and close. Come see all of the function packed into these units today!</g:description>
-  </item>
-  <item>
-    <g:id>411766</g:id>
-    <g:vin>4YDTPPL28SD411766</g:vin>
-    <title>Used 2025 Keystone RV Passport Super Lite 2450RK</title>
+    <g:id>103844</g:id>
+    <g:vin>4YDTSGG11SW103844</g:vin>
+    <title>Used 2025 Keystone RV Springdale Classic Mini 1710MB</title>
     <g:condition>used</g:condition>
     <g:brand>Keystone RV</g:brand>
-    <g:model>Passport Super Lite</g:model>
-    <g:trim>2450RK</g:trim>
+    <g:model>Springdale Classic Mini</g:model>
+    <g:trim>1710MB</g:trim>
     <g:year>2025</g:year>
     <g:mileage>0 Miles</g:mileage>
     <g:google_product_category>4243</g:google_product_category>
     <g:body_style>travel_trailer</g:body_style>
-    <g:price>32995.00 USD</g:price>
-    <g:link>https://www.stellhornrv.com/product/used-2025-keystone-rv-passport-super-lite-2450rk-3758482-29</g:link>
-    <g:link_template>https://www.stellhornrv.com/product/used-2025-keystone-rv-passport-super-lite-2450rk-3758482-29?store={store_code}</g:link_template>
-    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0821202614360386/unit_photo_202608210236038648587730.jpg</g:image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0821202614360372/unit_photo_202608210236037229937487.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0821202614360361/unit_photo_202608210236036124693315.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0821202614360292/unit_photo_202608210236029239146149.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0821202614360371/unit_photo_202608210236037155695746.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0821202614360384/unit_photo_20260821023603843226871.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0821202614360384/unit_photo_202608210236038441565251.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0821202614360373/unit_photo_202608210236037304319885.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0821202614360357/unit_photo_20260821023603574406415.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0821202614360354/unit_photo_202608210236035388381537.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0821202614360356/unit_photo_202608210236035653995660.jpg</g:additional_image_link>
+    <g:price>10800.00 USD</g:price>
+    <g:link>https://www.stellhornrv.com/product/used-2025-keystone-rv-springdale-classic-mini-1710mb-3569660-29</g:link>
+    <g:link_template>https://www.stellhornrv.com/product/used-2025-keystone-rv-springdale-classic-mini-1710mb-3569660-29?store={store_code}</g:link_template>
+    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0409202618201936/unit_photo_202604090620193672168464.png</g:image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0409202614442981/unit_photo_202604090244298158860273.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0409202614442931/unit_photo_202604090244293098322403.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0409202614442977/unit_photo_202604090244297765457822.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0409202614442982/unit_photo_20260409024429822028483.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0409202614442981/unit_photo_202604090244298142061322.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0409202614442971/unit_photo_202604090244297181144703.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0409202614442985/unit_photo_202604090244298531810542.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0409202614442974/unit_photo_202604090244297476017558.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0409202614442979/unit_photo_202604090244297908701500.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0409202614442968/unit_photo_20260409024429683602859.jpg</g:additional_image_link>
     <g:store_code>GD2151</g:store_code>
     <g:vehicle_fulfillment>in_store</g:vehicle_fulfillment>
-    <g:vehicle_option>Front Bedroom,Outdoor Kitchen,Rear Kitchen,Two Entry/Exit Doors,Walk-Thru Bath</g:vehicle_option>
+    <g:vehicle_option>Murphy Bed,Rear Bath</g:vehicle_option>
     <g:color>White</g:color>
-    <g:description>Keystone Passport Super Lite travel trailer 2450RK highlights: Rear Kitchen Booth Dinette Dual Entry Doors Pass-Thru Storage Are you looking to upgrade from a tent to a travel trailer? This dual axle unit may be the one! Since there are dual entry doors, you can enter in through the front master bedroom with a queen bed or the rear kitchen with ample counter space . Your crew can relax on the tri-fold sofa , play a game at the booth dinette, or visit outdoors under the 19' awning. There is also an outdoor kitchen here for a sunrise breakfast! The walk-thru bath is easily accessible for everyone to use, and you'll find plenty of storage space throughout, including a large pantry, overhead compartments, and dual bedroom wardrobes and nightstands. With any Keystone Passport Super Lite travel trailer you will enjoy lightweight towing and lots of interior comforts! The power tongue jack lets you hitch up at the drop of a hat, and the Dexter torsion axle rubber ride suspension will make towing easier than ever. You will appreciate having power stabilizer jacks for quick setup and an exterior convenience center to monitor tank levels. These trailers are constructed with a seamless, laminated and gel-coated filon exterior, 80% tinted safety glass windows, and a one-piece polypropylene underbelly . The interior will have you feeling right at home with residential durable Beauflor vinyl flooring, deluxe night shades, LED lighting throughout, and seamless kitchen countertops to name a few comforts.</g:description>
+    <g:description>Keystone Springdale Classic Mini travel trailer 1710MB highlights: Full Rear Bath Pass-Thru Storage 3.3 Cu. Ft. 12V Refrigerator Sleeps Two Time spent in this couple's trailer will be time well spent! You will love the amount of space you have each day since the queen Murphy bed can be put away to utilize the fold-down sofa . The chef of your group can make breakfast on the two burner gas cooktop and store leftovers in the 3.3 cu. ft. 12V refrigerator. The countertop with two chairs can be used as a desk or for dining space, and the full rear bath is sure to be appreciated! With any Springdale Classic Mini travel trailer by Keystone, you will enjoy lightweight towing thanks to their single-axle! You'll find the XL entry assist handle will make entering and exiting your unit easier than ever, and the power awning will provide protection from the sun as you relax in your camp chairs outside. Each model includes blackout night shades , solid wood cabinet doors and drawers, a shower skylight for more standing room, plus many more interior comforts. There is also a 5,000 BTU sidewall A/C and 20K BTU furnace to keep you comfortable, plus a Girard tankless water heater for endless hot showers!</g:description>
+  </item>
+  <item>
+    <g:id>022301</g:id>
+    <g:vin>5ZT2FERB7NW022301</g:vin>
+    <title>Used 2022 Coachmen RV Freedom Express Ultra Lite 257BHS</title>
+    <g:condition>used</g:condition>
+    <g:brand>Coachmen RV</g:brand>
+    <g:model>Freedom Express Ultra Lite</g:model>
+    <g:trim>257BHS</g:trim>
+    <g:year>2022</g:year>
+    <g:mileage>0 Miles</g:mileage>
+    <g:google_product_category>4243</g:google_product_category>
+    <g:body_style>travel_trailer</g:body_style>
+    <g:price>19985.00 USD</g:price>
+    <g:link>https://www.stellhornrv.com/product/used-2022-coachmen-rv-freedom-express-ultra-lite-257bhs-3616455-29</g:link>
+    <g:link_template>https://www.stellhornrv.com/product/used-2022-coachmen-rv-freedom-express-ultra-lite-257bhs-3616455-29?store={store_code}</g:link_template>
+    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612370764/unit_photo_20260513123707645040884.jpg</g:image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612370768/unit_photo_202605131237076817976860.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612370757/unit_photo_202605131237075765564995.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612370764/unit_photo_202605131237076394513134.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612370678/unit_photo_202605131237067850226811.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612370727/unit_photo_20260513123707275251216.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612370698/unit_photo_202605131237069802589294.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612370761/unit_photo_202605131237076157801989.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612370750/unit_photo_20260513123707505066670.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612370758/unit_photo_202605131237075829138249.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612370724/unit_photo_202605131237072474152539.jpg</g:additional_image_link>
+    <g:store_code>GD2151</g:store_code>
+    <g:vehicle_fulfillment>in_store</g:vehicle_fulfillment>
+    <g:vehicle_option>Bunkhouse,Front Bedroom,Outdoor Kitchen,U Shaped Dinette</g:vehicle_option>
+    <g:color>White</g:color>
+    <g:description>Coachmen Freedom Express Ultra Lite travel trailer 257BHS highlights: 20' Power Awning with LED Lights Outdoor Shower Full Bath Three Burner Cooktop Vaulted Under-Bed Storage Double-size bunks make this travel trailer ready for fun! You will appreciate the front private bedroom with its queen bed and dual wardrobes, and any other guests can sleep on the U-shaped dinette . The chef of your group can cook indoors on the three burner cooktop, or outdoors on the pull-out camp kitchen . This model also includes a full bath with a tub/shower that will make bath time for the littles easier than ever, and there is plenty of storage space throughout this model for all your belongings. With any Freedom Express Ultra Lite travel trailer by Coachmen you will appreciate quality construction materials, such as vacuum bonded walls with Azdel composite, a 3/4 gel coated fiberglass cap with an automotive glass windshield, and a heated enclosed underbelly. Each model also features Tufflex PVC roofing , front diamond plate, and E-Z Lube axles for smooth towing. You'll find Carefree flooring indoors, as well as night shades, a dual basin American stonecast sink, and hidden hinge cabinetry. The power tongue jack included with the Ultra Lite Express Pack will make set-up a breeze, and each model includes back-up camera prep and they are Freedom solar ready if you plan to go off-grid. Enjoy lightweight camping with a Freedom Express Ultra Lite travel trailer today!</g:description>
   </item>
   <item>
     <g:id>128680</g:id>
@@ -1903,7 +1923,7 @@
     <g:price>19800.00 USD</g:price>
     <g:link>https://www.stellhornrv.com/product/used-2021-crossroads-rv-sunset-trail-ss285ck-3309197-29</g:link>
     <g:link_template>https://www.stellhornrv.com/product/used-2021-crossroads-rv-sunset-trail-ss285ck-3309197-29?store={store_code}</g:link_template>
-    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m1117202519225865/unit_photo_20251117072258652603135.png</g:image_link>
+    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m1028202615490618/unit_photo_202610280349061823371714.jpg</g:image_link>
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m1031202514105048/unit_photo_202510310210504809278208.jpg</g:additional_image_link>
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m1031202514105323/unit_photo_202510310210532353490288.jpg</g:additional_image_link>
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m1031202514105237/unit_photo_202510310210523727772140.jpg</g:additional_image_link>
@@ -2114,7 +2134,8 @@
     <g:price>11800.00 USD</g:price>
     <g:link>https://www.stellhornrv.com/product/used-2015-forest-river-rv-solaire-317bhsk-3763869-29</g:link>
     <g:link_template>https://www.stellhornrv.com/product/used-2015-forest-river-rv-solaire-317bhsk-3763869-29?store={store_code}</g:link_template>
-    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0825202621365948/unit_photo_202608250936594883364982.jpg</g:image_link>
+    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m1028202615241997/unit_photo_202610280324199741072838.jpg</g:image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0825202621365948/unit_photo_202608250936594883364982.jpg</g:additional_image_link>
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0825202621365967/unit_photo_202608250936596737338935.jpg</g:additional_image_link>
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0825202621365947/unit_photo_202608250936594717127896.jpg</g:additional_image_link>
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0825202621365918/unit_photo_202608250936591813653486.jpg</g:additional_image_link>
@@ -2124,7 +2145,6 @@
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0825202621365955/unit_photo_202608250936595506603706.jpg</g:additional_image_link>
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0825202621365944/unit_photo_202608250936594434591529.jpg</g:additional_image_link>
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0825202621380090/unit_photo_20260825093800900108274.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0825202621380142/unit_photo_202608250938014243988923.jpg</g:additional_image_link>
     <g:store_code>GD2151</g:store_code>
     <g:vehicle_fulfillment>in_store</g:vehicle_fulfillment>
     <g:vehicle_option>Bunkhouse,Front Bedroom,Outdoor Kitchen,Two Entry/Exit Doors</g:vehicle_option>
@@ -2164,37 +2184,70 @@
     <g:description>Laredo Super Lite Travel Trailer w/Rear Entertainment w/Full Wall Ent. Center w/Overhead Storage, Slideout Area w/2 Lounge Chairs &amp; Family Sized Dinette, Overhead Storage Above, Tri-Fold Sofa Sleeper/Pantry &amp; Refrig. Slide Opposite, 3 Burner Range, Dbl. Kitchen Sink, Side Aisle Bath w/Angle Shower, Toilet, Sink, Linen Cabinet, Front Queen Bed w/Wardrobes Both Sides, Linen/Wardrobe Slideout, Front Pass-Thru Storage and More!</g:description>
   </item>
   <item>
-    <g:id>024707</g:id>
-    <g:vin>5ZT2PUPB8T4024707</g:vin>
-    <title>New 2026 Forest River RV Puma Camping Edition 250RBCE</title>
+    <g:id>028002</g:id>
+    <g:vin>5ZT2PUWBXT4028002</g:vin>
+    <title>New 2026 Forest River RV Puma Camping Edition 305BHCE</title>
     <g:condition>new</g:condition>
     <g:brand>Forest River RV</g:brand>
     <g:model>Puma Camping Edition</g:model>
-    <g:trim>250RBCE</g:trim>
+    <g:trim>305BHCE</g:trim>
     <g:year>2026</g:year>
     <g:mileage>0 Miles</g:mileage>
     <g:google_product_category>4243</g:google_product_category>
     <g:body_style>travel_trailer</g:body_style>
-    <g:price>18800.00 USD</g:price>
-    <g:vehicle_msrp>42519.00 USD</g:vehicle_msrp>
-    <g:link>https://www.stellhornrv.com/product/new-2026-forest-river-rv-puma-camping-edition-250rbce-2934734-29</g:link>
-    <g:link_template>https://www.stellhornrv.com/product/new-2026-forest-river-rv-puma-camping-edition-250rbce-2934734-29?store={store_code}</g:link_template>
-    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0529202618304649/unit_photo_202605290630464889105535.jpg</g:image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0401202613272531/unit_photo_202604010127253165106695.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0611202515080920/unit_photo_202506110308092075809962.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0610202520021697/unit_photo_202506100802169707805951.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0610202520021707/unit_photo_202506100802170720075337.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0610202520021716/unit_photo_202506100802171651881513.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0610202520021757/unit_photo_202506100802175764944698.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0610202520021736/unit_photo_202506100802173611093621.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0610202520021746/unit_photo_202506100802174615775538.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0610202520021726/unit_photo_202506100802172670290865.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0610202520021656/unit_photo_202506100802165590318152.jpg</g:additional_image_link>
+    <g:price>24800.00 USD</g:price>
+    <g:vehicle_msrp>47911.00 USD</g:vehicle_msrp>
+    <g:link>https://www.stellhornrv.com/product/new-2026-forest-river-rv-puma-camping-edition-305bhce-3586932-29</g:link>
+    <g:link_template>https://www.stellhornrv.com/product/new-2026-forest-river-rv-puma-camping-edition-305bhce-3586932-29?store={store_code}</g:link_template>
+    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0601202618021131/unit_photo_202606010602113111428930.jpg</g:image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0601202616130513/unit_photo_202606010413051314484573.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0430202613130254/unit_photo_202604300113025402922158.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0430202613130262/unit_photo_202604300113026219354503.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0430202613130246/unit_photo_202604300113024674476120.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0430202613130247/unit_photo_202604300113024706391603.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0430202613130232/unit_photo_202604300113023227649322.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0430202613130274/unit_photo_202604300113027421654261.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0430202613130271/unit_photo_202604300113027096218687.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0430202613130274/unit_photo_202604300113027422053168.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0430202613130235/unit_photo_202604300113023572593948.jpg</g:additional_image_link>
     <g:store_code>GD2151</g:store_code>
     <g:vehicle_fulfillment>in_store</g:vehicle_fulfillment>
-    <g:vehicle_option>Front Bedroom,Outdoor Kitchen,Rear Bath</g:vehicle_option>
+    <g:vehicle_option>Bunkhouse,Front Bedroom,Outdoor Kitchen</g:vehicle_option>
     <g:color>White</g:color>
-    <g:description>Palomino Puma Camping Edition travel trailer 250RBCE highlights: Full Rear Bath Large Slide Out 60&quot; x 74&quot; RV Queen Bed Outside Storage Wherever you decide to camp, you can be sure to have a great time in this rear bath travel trailer! The combined kitchen and living area is made spacious thanks to the large slide out. Here, you can relax on the sofa and dine at the booth dinette, and an optional TV can be added if you want the option for movie night. The full kitchen will allow you to make meals each day, and you can choose to add the optional outside mini kitchen with a griddle if you want to cook with fresh air. This unit also includes a front private bedroom , complete with an RV queen bed, an overhead shelf and dual shirt closets to keep clothes wrinkle-free. The Puma Camping Edition by Palomino offer an affordable travel trailer for rookie campers or seasoned RVers! They are built with 5/8&quot; tongue and groove plywood flooring and a front diamond plate for added protection. There are also exterior clamp style door latches , back up camera prep, and 20 lb. LP bottles. Head inside to find Thermofoil countertops with a smooth drop edge, bedroom USB ports and outlets, and a GE appliance and kitchen package .</g:description>
+    <g:description>Forest River Puma Camping Edition travel trailer 305BHCE highlights: Large Slide Out RV Queen Bed Rear Private Bunkhouse 10 Cu. Ft. 12V Refrigerator If you're looking for more space, this double axle, double slide out unit is perfect for your group of eight. Within the large slide in the living room, you'll find the booth dinette and sofa , which sit across from the optional TV if you want to enjoy movie nights. The full kitchen includes a microwave and three burner cooktop to make meals, plus a pantry and 12V refrigerator for food storage. And an optional outside mini kitchen with a grill can be added if you enjoy cooking outdoors! Your guests or littles are sure to enjoy the rear private bunkhouse that features a set of 38&quot; x 76&quot; bunks across from the third bunk and jiffy sofa within a slide out! The Puma Camping Edition by Forest River offer an affordable travel trailer for rookie campers or seasoned RVers! They are built with 5/8&quot; tongue and groove plywood flooring and a front diamond plate for added protection. There are also exterior magnetic baggage door latches , back up camera prep, a battery disconnect. Head inside to find Thermofoil countertops with a smooth drop edge, bedroom USB ports and outlets, and pleated shades in the living room.</g:description>
+  </item>
+  <item>
+    <g:id>016553</g:id>
+    <g:vin>4X4TSMY23TY016553</g:vin>
+    <title>New 2026 Forest River RV Salem FSX 233RBLE</title>
+    <g:condition>new</g:condition>
+    <g:brand>Forest River RV</g:brand>
+    <g:model>Salem FSX</g:model>
+    <g:trim>233RBLE</g:trim>
+    <g:year>2026</g:year>
+    <g:mileage>0 Miles</g:mileage>
+    <g:google_product_category>4243</g:google_product_category>
+    <g:body_style>travel_trailer</g:body_style>
+    <g:price>18826.00 USD</g:price>
+    <g:vehicle_msrp>36868.00 USD</g:vehicle_msrp>
+    <g:link>https://www.stellhornrv.com/product/new-2026-forest-river-rv-salem-fsx-233rble-3611920-29</g:link>
+    <g:link_template>https://www.stellhornrv.com/product/new-2026-forest-river-rv-salem-fsx-233rble-3611920-29?store={store_code}</g:link_template>
+    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0601202617471983/unit_photo_202606010547198329133694.jpg</g:image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0601202616101023/unit_photo_202606010410102379900439.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612070875/unit_photo_202605131207087486222594.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612070871/unit_photo_202605131207087182290923.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612070849/unit_photo_202605131207084931387298.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612070855/unit_photo_202605131207085535503191.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612070792/unit_photo_202605131207079223922807.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612070851/unit_photo_202605131207085164892544.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612070857/unit_photo_202605131207085684274869.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612070854/unit_photo_202605131207085423844605.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0513202612070861/unit_photo_202605131207086159781689.jpg</g:additional_image_link>
+    <g:store_code>GD2151</g:store_code>
+    <g:vehicle_fulfillment>in_store</g:vehicle_fulfillment>
+    <g:vehicle_option>Front Bedroom,Rear Bath</g:vehicle_option>
+    <g:color>White</g:color>
+    <g:description>Forest River Salem FSX Limited Edition travel trailer 233RBLE highlights: Front Private Bedroom Kitchen Pantry Full Rear Bath 12V Power Awning King Bed Camping is made easy in this travel trailer with at-home comforts! You'll have the front private bedroom with a king bed all to yourselves, and there are dual bedroom wardrobes to keep your space neat and clean. Any additional guests can sleep on the super lounge with a removable table. You will appreciate the full rear bath complete with a linen closet and dual bath sinks so you both can get ready for bed at once. And a full kitchen lets you whip up your best meals! The Forest River Salem FSX travel trailers and toy hauler travel trailers are ultra comfortable and lightweight , perfect for first time or seasoned campers alike! You will love how easy it will be to relax with residential features that will make your space feel just like home, and the durable construction means you can enjoy your RV for years to come. There are a wide variety of floorplans to choose from, including couple's trailers, bunk models, and toy haulers, all with full bath and kitchen amenities and plenty of storage for all your gear!</g:description>
   </item>
   <item>
     <g:id>016431</g:id>
@@ -2526,39 +2579,6 @@
     <g:description>Forest River Puma Grand Mesa fifth wheel 394RKL highlights: Five Slides Rear Kitchen Table with Half Booth L-Lounge King Bed Slide You will love every minute spent in this unique fifth wheel! As you enter the unit, you'll find a mud room with a bench seat, storage, plus washer and dryer prep. The front master bedroom will be your own oasis each day since there is an office space with a desk slide out and a hallway that leads to the front bedroom. Here, you'll find a king bed slide, a front bench, plus a slide out with a TV, fireplace and wardrobe; how convenient! When you've worked up an appetite, the rear kitchen includes everything you need to make home-cooked meals, along with a bar top that overlooks the living room , a spacious pantry, and a table with chairs to dine at. You can spend your evenings relaxing on the L-lounge by the entertainment center with a fireplace, or you can head outdoors to sit under the 19' power awning with LED lights ! With the Puma Grand Mesa fifth wheel by Forest River, you will love the practical living, ample storage, the optimum towability, and the lavish style found throughout! There is a 7' interior height and a 101&quot; wide body for added space, plus large, tinted windows throughout, worry-free composite floors, and vacuum bonded walls with Azdel for durability. The mandatory River Package includes features such as an upgraded suspension, a screenless operating system with Bluetooth, and three A/C units to keep you comfortable. These fifth wheels also include the mandatory Ranch Package that comes with a stainless-steel appliance package, day/night roller shades, a fiberglass shower surround, plus residential style dinette chairs. There are many more features to love about the Puma Grand Mesa fifth wheels, like the upgraded true solid surface countertops, the mirrored sliding closet doors, and the two-tone painted front cap !</g:description>
   </item>
   <item>
-    <g:id>028002</g:id>
-    <g:vin>5ZT2PUWBXT4028002</g:vin>
-    <title>New 2026 Forest River RV Puma Camping Edition 305BHCE</title>
-    <g:condition>new</g:condition>
-    <g:brand>Forest River RV</g:brand>
-    <g:model>Puma Camping Edition</g:model>
-    <g:trim>305BHCE</g:trim>
-    <g:year>2026</g:year>
-    <g:mileage>0 Miles</g:mileage>
-    <g:google_product_category>4243</g:google_product_category>
-    <g:body_style>travel_trailer</g:body_style>
-    <g:price>24800.00 USD</g:price>
-    <g:vehicle_msrp>47911.00 USD</g:vehicle_msrp>
-    <g:link>https://www.stellhornrv.com/product/new-2026-forest-river-rv-puma-camping-edition-305bhce-3586932-29</g:link>
-    <g:link_template>https://www.stellhornrv.com/product/new-2026-forest-river-rv-puma-camping-edition-305bhce-3586932-29?store={store_code}</g:link_template>
-    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0601202618021131/unit_photo_202606010602113111428930.jpg</g:image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0601202616130513/unit_photo_202606010413051314484573.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0430202613130254/unit_photo_202604300113025402922158.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0430202613130262/unit_photo_202604300113026219354503.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0430202613130246/unit_photo_202604300113024674476120.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0430202613130247/unit_photo_202604300113024706391603.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0430202613130232/unit_photo_202604300113023227649322.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0430202613130274/unit_photo_202604300113027421654261.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0430202613130271/unit_photo_202604300113027096218687.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0430202613130274/unit_photo_202604300113027422053168.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0430202613130235/unit_photo_202604300113023572593948.jpg</g:additional_image_link>
-    <g:store_code>GD2151</g:store_code>
-    <g:vehicle_fulfillment>in_store</g:vehicle_fulfillment>
-    <g:vehicle_option>Bunkhouse,Front Bedroom,Outdoor Kitchen</g:vehicle_option>
-    <g:color>White</g:color>
-    <g:description>Forest River Puma Camping Edition travel trailer 305BHCE highlights: Large Slide Out RV Queen Bed Rear Private Bunkhouse 10 Cu. Ft. 12V Refrigerator If you're looking for more space, this double axle, double slide out unit is perfect for your group of eight. Within the large slide in the living room, you'll find the booth dinette and sofa , which sit across from the optional TV if you want to enjoy movie nights. The full kitchen includes a microwave and three burner cooktop to make meals, plus a pantry and 12V refrigerator for food storage. And an optional outside mini kitchen with a grill can be added if you enjoy cooking outdoors! Your guests or littles are sure to enjoy the rear private bunkhouse that features a set of 38&quot; x 76&quot; bunks across from the third bunk and jiffy sofa within a slide out! The Puma Camping Edition by Forest River offer an affordable travel trailer for rookie campers or seasoned RVers! They are built with 5/8&quot; tongue and groove plywood flooring and a front diamond plate for added protection. There are also exterior magnetic baggage door latches , back up camera prep, a battery disconnect. Head inside to find Thermofoil countertops with a smooth drop edge, bedroom USB ports and outlets, and pleated shades in the living room.</g:description>
-  </item>
-  <item>
     <g:id>412801</g:id>
     <g:vin>4YDT29025BT412801</g:vin>
     <title>Used 2011 Keystone RV Passport 290BH</title>
@@ -2573,7 +2593,8 @@
     <g:price>9800.00 USD</g:price>
     <g:link>https://www.stellhornrv.com/product/used-2011-keystone-rv-passport-290bh-3700465-29</g:link>
     <g:link_template>https://www.stellhornrv.com/product/used-2011-keystone-rv-passport-290bh-3700465-29?store={store_code}</g:link_template>
-    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0701202619132729/unit_photo_202607010713272914494997.jpg</g:image_link>
+    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m1028202615471519/unit_photo_202610280347151952511359.jpg</g:image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0701202619132729/unit_photo_202607010713272914494997.jpg</g:additional_image_link>
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0701202619132665/unit_photo_202607010713266577697603.jpg</g:additional_image_link>
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0701202619132686/unit_photo_202607010713268633725310.jpg</g:additional_image_link>
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0701202619132692/unit_photo_20260701071326922876277.jpg</g:additional_image_link>
@@ -2583,12 +2604,44 @@
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0701202619132709/unit_photo_202607010713270924701396.jpg</g:additional_image_link>
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0701202619132687/unit_photo_202607010713268685718774.jpg</g:additional_image_link>
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0701202619132686/unit_photo_202607010713268613047485.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0701202619132669/unit_photo_202607010713266896774635.jpg</g:additional_image_link>
     <g:store_code>GD2151</g:store_code>
     <g:vehicle_fulfillment>in_store</g:vehicle_fulfillment>
     <g:vehicle_option>Bunkhouse,Front Bedroom</g:vehicle_option>
     <g:color>White</g:color>
     <g:description>Single Slide Travel Trailer, Rear Bunkhouse w/Quad Bunks, Wardrobe w/TV Shelf Between, Tub/Shower, Toilet, Sink, Booth Dinette, Bar &amp; Stools, Swivel TV, Slideout 3 Burner Range/Double Kitchen Sink &amp; Fold-Down Sofa, Front Queen Bed, Wardrobe, Pass-Thru Storage, Exterior Slide-Out Cook Center and More.</g:description>
+  </item>
+  <item>
+    <g:id>024707</g:id>
+    <g:vin>5ZT2PUPB8T4024707</g:vin>
+    <title>New 2026 Forest River RV Puma Camping Edition 250RBCE</title>
+    <g:condition>new</g:condition>
+    <g:brand>Forest River RV</g:brand>
+    <g:model>Puma Camping Edition</g:model>
+    <g:trim>250RBCE</g:trim>
+    <g:year>2026</g:year>
+    <g:mileage>0 Miles</g:mileage>
+    <g:google_product_category>4243</g:google_product_category>
+    <g:body_style>travel_trailer</g:body_style>
+    <g:price>18800.00 USD</g:price>
+    <g:vehicle_msrp>42519.00 USD</g:vehicle_msrp>
+    <g:link>https://www.stellhornrv.com/product/new-2026-forest-river-rv-puma-camping-edition-250rbce-2934734-29</g:link>
+    <g:link_template>https://www.stellhornrv.com/product/new-2026-forest-river-rv-puma-camping-edition-250rbce-2934734-29?store={store_code}</g:link_template>
+    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0529202618304649/unit_photo_202605290630464889105535.jpg</g:image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0401202613272531/unit_photo_202604010127253165106695.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0611202515080920/unit_photo_202506110308092075809962.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0610202520021697/unit_photo_202506100802169707805951.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0610202520021707/unit_photo_202506100802170720075337.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0610202520021716/unit_photo_202506100802171651881513.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0610202520021757/unit_photo_202506100802175764944698.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0610202520021736/unit_photo_202506100802173611093621.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0610202520021746/unit_photo_202506100802174615775538.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0610202520021726/unit_photo_202506100802172670290865.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0610202520021656/unit_photo_202506100802165590318152.jpg</g:additional_image_link>
+    <g:store_code>GD2151</g:store_code>
+    <g:vehicle_fulfillment>in_store</g:vehicle_fulfillment>
+    <g:vehicle_option>Front Bedroom,Outdoor Kitchen,Rear Bath</g:vehicle_option>
+    <g:color>White</g:color>
+    <g:description>Palomino Puma Camping Edition travel trailer 250RBCE highlights: Full Rear Bath Large Slide Out 60&quot; x 74&quot; RV Queen Bed Outside Storage Wherever you decide to camp, you can be sure to have a great time in this rear bath travel trailer! The combined kitchen and living area is made spacious thanks to the large slide out. Here, you can relax on the sofa and dine at the booth dinette, and an optional TV can be added if you want the option for movie night. The full kitchen will allow you to make meals each day, and you can choose to add the optional outside mini kitchen with a griddle if you want to cook with fresh air. This unit also includes a front private bedroom , complete with an RV queen bed, an overhead shelf and dual shirt closets to keep clothes wrinkle-free. The Puma Camping Edition by Palomino offer an affordable travel trailer for rookie campers or seasoned RVers! They are built with 5/8&quot; tongue and groove plywood flooring and a front diamond plate for added protection. There are also exterior clamp style door latches , back up camera prep, and 20 lb. LP bottles. Head inside to find Thermofoil countertops with a smooth drop edge, bedroom USB ports and outlets, and a GE appliance and kitchen package .</g:description>
   </item>
   <item>
     <g:id>028230</g:id>
@@ -2804,8 +2857,7 @@
     <g:vehicle_msrp>99949.00 USD</g:vehicle_msrp>
     <g:link>https://www.stellhornrv.com/product/new-2026-coachmen-rv-chaparral-381dbl-3585462-5</g:link>
     <g:link_template>https://www.stellhornrv.com/product/new-2026-coachmen-rv-chaparral-381dbl-3585462-5?store={store_code}</g:link_template>
-    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0529202618492042/unit_photo_202605290649204191322906.jpg</g:image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0428202613135649/unit_photo_202604280113564969713646.jpg</g:additional_image_link>
+    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m1028202615234242/unit_photo_202610280323424195070770.jpg</g:image_link>
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0428202613135614/unit_photo_202604280113561480702153.jpg</g:additional_image_link>
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0428202613135630/unit_photo_202604280113563057910784.jpg</g:additional_image_link>
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0428202613135642/unit_photo_202604280113564205700132.jpg</g:additional_image_link>
@@ -2815,6 +2867,7 @@
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0428202613135640/unit_photo_202604280113564019942328.jpg</g:additional_image_link>
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0428202613135654/unit_photo_202604280113565473292870.jpg</g:additional_image_link>
     <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0428202613135626/unit_photo_202604280113562670215684.jpg</g:additional_image_link>
+    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0428202613135528/unit_photo_20260428011355282753738.jpg</g:additional_image_link>
     <g:store_code>GD2151</g:store_code>
     <g:vehicle_fulfillment>in_store</g:vehicle_fulfillment>
     <g:vehicle_option>Front Bedroom,Kitchen Island,Loft,Rear Bath,Two Full Baths</g:vehicle_option>
@@ -2886,38 +2939,6 @@
     <g:vehicle_option>Front Bedroom,Kitchen Island,Rear Living Area</g:vehicle_option>
     <g:color>White</g:color>
     <g:description>Coachmen Brookstone fifth wheel 370RLLO highlights: Free-Standing Table 78&quot; Tri-Fold Hide-A-Bed Sofa Entertainment Center Pantry/Linen Closet Shower with a Seat King Bed Slide Out The rear living room is the perfect place to unwind, featuring a 78” trifold sofa, theater seating, overhead cabinets, and an entertainment center. Whether you're watching a movie, reading a book, or simply enjoying the company of loved ones, this room has everything you need to relax and recharge. The spacious kitchen is fitted with a kitchen island , refrigerator, microwave, free-standing table, hutch, and overhead cabinets. Perfect for preparing your favorite meals and enjoy with family. With a convenient coat bench, desk with flip-up storage , washer, and dryer, you'll have everything you need to stay organized and comfortable on the go. The full bathroom is an enormous oasis with a linen closet for added convenience. Also with a front bedroom featuring a king bed, dresser, shelves, and wardrobe , you'll have the perfect place to rest and recharge after a long day of adventure, also plenty of space for storing all your belongings and staying organized on the road. The Brookstone fifth wheels by Coachmen are coming to you with wide-body comfort, home-like amenities, and unique designs for a truly luxurious RV. The Weather Shield+ consists of a 6X double Azdel aluminum cage sidewall system, a Radiant Pro weather barrier system, and more that will help you extend your camping season or go full-time. Head inside to find solid surface countertops in the kitchen, an 4K Smart LED TV in the living room, slow rise roller night shades , and the list of comforts goes on! The Brookstone also includes 6-point electric auto-leveling, four Solid Step entry steps , an electric awning with LED lights, and many more exterior conveniences!</g:description>
-  </item>
-  <item>
-    <g:id>103844</g:id>
-    <g:vin>4YDTSGG11SW103844</g:vin>
-    <title>Used 2025 Keystone RV Springdale Classic Mini 1710MB</title>
-    <g:condition>used</g:condition>
-    <g:brand>Keystone RV</g:brand>
-    <g:model>Springdale Classic Mini</g:model>
-    <g:trim>1710MB</g:trim>
-    <g:year>2025</g:year>
-    <g:mileage>0 Miles</g:mileage>
-    <g:google_product_category>4243</g:google_product_category>
-    <g:body_style>travel_trailer</g:body_style>
-    <g:price>10800.00 USD</g:price>
-    <g:link>https://www.stellhornrv.com/product/used-2025-keystone-rv-springdale-classic-mini-1710mb-3569660-29</g:link>
-    <g:link_template>https://www.stellhornrv.com/product/used-2025-keystone-rv-springdale-classic-mini-1710mb-3569660-29?store={store_code}</g:link_template>
-    <g:image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0409202618201936/unit_photo_202604090620193672168464.png</g:image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0409202614442981/unit_photo_202604090244298158860273.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0409202614442931/unit_photo_202604090244293098322403.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0409202614442977/unit_photo_202604090244297765457822.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0409202614442982/unit_photo_20260409024429822028483.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0409202614442981/unit_photo_202604090244298142061322.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0409202614442971/unit_photo_202604090244297181144703.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0409202614442985/unit_photo_202604090244298531810542.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0409202614442974/unit_photo_202604090244297476017558.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0409202614442979/unit_photo_202604090244297908701500.jpg</g:additional_image_link>
-    <g:additional_image_link>https://assets-cdn.interactcp.com/stellhornrv/unit_photo/imgh_800x600-wm_stellhornrv_com-m0409202614442968/unit_photo_20260409024429683602859.jpg</g:additional_image_link>
-    <g:store_code>GD2151</g:store_code>
-    <g:vehicle_fulfillment>in_store</g:vehicle_fulfillment>
-    <g:vehicle_option>Murphy Bed,Rear Bath</g:vehicle_option>
-    <g:color>White</g:color>
-    <g:description>Keystone Springdale Classic Mini travel trailer 1710MB highlights: Full Rear Bath Pass-Thru Storage 3.3 Cu. Ft. 12V Refrigerator Sleeps Two Time spent in this couple's trailer will be time well spent! You will love the amount of space you have each day since the queen Murphy bed can be put away to utilize the fold-down sofa . The chef of your group can make breakfast on the two burner gas cooktop and store leftovers in the 3.3 cu. ft. 12V refrigerator. The countertop with two chairs can be used as a desk or for dining space, and the full rear bath is sure to be appreciated! With any Springdale Classic Mini travel trailer by Keystone, you will enjoy lightweight towing thanks to their single-axle! You'll find the XL entry assist handle will make entering and exiting your unit easier than ever, and the power awning will provide protection from the sun as you relax in your camp chairs outside. Each model includes blackout night shades , solid wood cabinet doors and drawers, a shower skylight for more standing room, plus many more interior comforts. There is also a 5,000 BTU sidewall A/C and 20K BTU furnace to keep you comfortable, plus a Girard tankless water heater for endless hot showers!</g:description>
   </item>
 </channel>
 </rss>
